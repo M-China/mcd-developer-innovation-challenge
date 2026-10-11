@@ -1,6 +1,6 @@
 # 麦当劳程序员创意开发大赛排行榜
 
-更新时间：2026-10-11 19:00:29
+更新时间：2026-10-11 20:00:27
 
 | 名次 | 项目名称 | Owner 昵称 | Star 数 |
 |---:|---|---|---:|
@@ -14,33 +14,33 @@
 | 7 | mcd-saver-strategist | hu**un | 33 |
 | 9 | maimai-fun-orderer | Fu****ng | 30 |
 | 10 | mcd-fortune | zm************ud | 29 |
-| 11 | mcd-breakfast-variety | To********ei | 24 |
-| 11 | mcd-fries-architect | yu*********ng | 24 |
+| 11 | mcd-fries-architect | yu*********ng | 25 |
+| 12 | mcd-breakfast-variety | To********ei | 24 |
 | 13 | mcd-calorie-budget-skill | cy******us | 23 |
-| 14 | mcd-party-buddy | Ne***93 | 21 |
-| 14 | mcd-no-pickle | mo********an | 21 |
-| 14 | m-type | sh****ab | 21 |
-| 14 | MM-helper | si*************ep | 21 |
-| 14 | mcd-craving-coach | ke******su | 21 |
-| 14 | mcd-china-map | Ja*****CN | 21 |
-| 20 | McOptima | YO**XX | 20 |
+| 14 | MM-helper | si*************ep | 22 |
+| 14 | mcd-china-map | Ja*****CN | 22 |
+| 16 | mcd-party-buddy | Ne***93 | 21 |
+| 16 | mcd-no-pickle | mo********an | 21 |
+| 16 | m-type | sh****ab | 21 |
+| 16 | McOptima | YO**XX | 21 |
+| 16 | mcd-craving-coach | ke******su | 21 |
 | 21 | mcd-1024-skill | 麦* | 19 |
 | 21 | mcd-cart-optimizer | du******32 | 19 |
 | 23 | mcd-points-vault | my******66 | 17 |
+| 23 | mcperks-planner | qi******62 | 17 |
+| 23 | mac-Buddy | i**4 | 17 |
 | 23 | mcd-save-master | ya***oo | 17 |
 | 23 | mcd-mcdrive-mate | yi********ng | 17 |
-| 26 | mcd-auto-coupon | od****24 | 16 |
-| 26 | mcd-points-actuary | ak**in | 16 |
-| 26 | mcperks-planner | qi******62 | 16 |
-| 26 | mac-Buddy | i**4 | 16 |
+| 28 | mcd-auto-coupon | od****24 | 16 |
+| 28 | mcd-points-actuary | ak**in | 16 |
 | 30 | mcdinner-mate | jk*****ii | 15 |
 | 30 | mcd-chill | yh**zl | 15 |
 | 30 | mcd-voice-order-assistant | 麦* | 15 |
+| 33 | mcd-meal-brain | 麦* | 14 |
 | 33 | chilemai | He****nZ | 14 |
 | 33 | mcd-budget-skill | Li****nx | 14 |
-| 35 | mcd-merch-intel | Le******27 | 13 |
-| 35 | mcd-easy-order | wa******i2 | 13 |
-| 35 | mcd-meal-brain | 麦* | 13 |
+| 36 | mcd-merch-intel | Le******27 | 13 |
+| 36 | mcd-easy-order | wa******i2 | 13 |
 | 38 | mcd-activity-intel | Jo*********ub | 12 |
 | 38 | mcd-100kcal | sh*****ry | 12 |
 | 40 | mcd-macro-strategist | ji******ue | 11 |
@@ -84,7 +84,9 @@
 | 76 | mcd-meal-harmony | re*ap | 4 |
 | 76 | mcd-send-a-meal | mi***gh | 4 |
 | 76 | mcd-cafe-decoder | cl******12 | 4 |
+| 76 | mcd-solver | ft***wf | 4 |
 | 76 | mcd-saving-assistant | TX***XY | 4 |
+| 76 | mcd-calorie-architect | Do*****ye | 4 |
 | 76 | mcd-mindreader | ke******33 | 4 |
 | 76 | mcd-group-order-captain | he*******ng | 4 |
 | 76 | mcd-nutrition-advisor | ch**********te | 4 |
@@ -103,34 +105,3 @@
 | 76 | mcd-feast-planner | hy*******nk | 4 |
 | 76 | mcd-mate | ri***ly | 4 |
 | 76 | mcd-roguelike-order | Bi*****30 | 4 |
-| 100 | qionggui-mai-baobao | zh******ng | 3 |
-| 100 | mcd-WhatToMc | al********ii | 3 |
-| 100 | mealpr | 麦* | 3 |
-| 100 | mcd-points-hunter | se*******07 | 3 |
-| 100 | jintianchiduoshao | zo***********lo | 3 |
-| 100 | mcd-savings-helper | hu********88 | 3 |
-| 100 | mcd-roundtable | 69*****17 | 3 |
-| 100 | mcd-kcal | zh***-x | 3 |
-| 100 | mcd-value-composer | aw***en | 3 |
-| 100 | mcd-calorie-architect | Do*****ye | 3 |
-| 100 | mcd-smart-saver | ha*****ng | 3 |
-| 100 | mcd-full-scenario-decision-officer | da***********yk | 3 |
-| 100 | mcd-gacha | ZD**CC | 3 |
-| 100 | macrobuddy | so*****ng | 3 |
-| 100 | mcd-step-order | Fa****33 | 3 |
-| 100 | mcd-cn-assistant | ju************er | 3 |
-| 100 | maimen-wrapped | fe********hu | 3 |
-| 100 | mcd-budget-solver | ai******sx | 3 |
-| 100 | mctrack | pa***77 | 3 |
-| 100 | mcd-skill | Mi********53 | 3 |
-| 100 | mcd-fitness-calorie-coach | cn******uo | 3 |
-| 100 | mcd-annual-report | yi****45 | 3 |
-| 100 | mcd-strategist | ze**xz | 3 |
-| 100 | mcd-wrapped | lv*****ng | 3 |
-| 100 | mcd-expiry-radar | Yo****ss | 3 |
-| 100 | McArchaeologist | ly*8z | 3 |
-| 100 | mcd-daidian | Ar****an | 3 |
-| 100 | mcd-menu-stage | dd*****ld | 3 |
-| 100 | maimai-saver | yu******le | 3 |
-| 100 | mcmuscle-ai | lj***fa | 3 |
-| 100 | mcd-saver | Oi***HH | 3 |
