@@ -1,6 +1,6 @@
 # 麦当劳程序员创意开发大赛排行榜
 
-更新时间：2026-10-12 02:00:27
+更新时间：2026-10-12 03:00:28
 
 | 名次 | 项目名称 | Owner 昵称 | Star 数 |
 |---:|---|---|---:|
@@ -15,35 +15,35 @@
 | 9 | mcd-fortune | zm************ud | 29 |
 | 9 | maimai-fun-orderer | Fu****ng | 29 |
 | 11 | mcd-fries-architect | yu*********ng | 27 |
-| 12 | McOptima | YO**XX | 25 |
+| 12 | McOptima | YO**XX | 26 |
 | 13 | mcd-breakfast-variety | To********ei | 24 |
-| 13 | mcd-china-map | Ja*****CN | 24 |
-| 15 | mcd-calorie-budget-skill | cy******us | 23 |
-| 15 | MM-helper | si*************ep | 23 |
-| 17 | mcd-no-pickle | mo********an | 20 |
-| 18 | mcd-1024-skill | 麦* | 19 |
-| 18 | m-type | sh****ab | 19 |
-| 18 | mcd-cart-optimizer | du******32 | 19 |
-| 21 | mcd-party-buddy | Ne***93 | 18 |
-| 21 | mac-Buddy | i**4 | 18 |
-| 21 | mcd-craving-coach | ke******su | 18 |
-| 24 | mcd-points-vault | my******66 | 17 |
-| 24 | McLife-Desk | Ni***-w | 17 |
-| 24 | mcperks-planner | qi******62 | 17 |
-| 24 | mcd-save-master | ya***oo | 17 |
-| 24 | mcd-mcdrive-mate | yi********ng | 17 |
-| 29 | mcd-auto-coupon | od****24 | 16 |
-| 29 | mcdinner-mate | jk*****ii | 16 |
-| 29 | mcd-points-actuary | ak**in | 16 |
-| 29 | mcd-chill | yh**zl | 16 |
-| 33 | mcd-voice-order-assistant | 麦* | 15 |
-| 34 | mcd-git | zh******me | 14 |
-| 34 | mcd-meal-brain | 麦* | 14 |
-| 34 | chilemai | He****nZ | 14 |
-| 34 | mcd-budget-skill | Li****nx | 14 |
-| 38 | mcd-terminal | Zh*******mo | 13 |
-| 38 | mcd-merch-intel | Le******27 | 13 |
-| 38 | mcd-easy-order | wa******i2 | 13 |
+| 14 | mcd-calorie-budget-skill | cy******us | 23 |
+| 14 | mcd-china-map | Ja*****CN | 23 |
+| 16 | MM-helper | si*************ep | 20 |
+| 17 | mcd-1024-skill | 麦* | 19 |
+| 17 | McLife-Desk | Ni***-w | 19 |
+| 17 | mcd-cart-optimizer | du******32 | 19 |
+| 20 | mcd-no-pickle | mo********an | 18 |
+| 20 | m-type | sh****ab | 18 |
+| 20 | mac-Buddy | i**4 | 18 |
+| 23 | mcd-points-vault | my******66 | 17 |
+| 23 | mcperks-planner | qi******62 | 17 |
+| 23 | mcd-save-master | ya***oo | 17 |
+| 23 | mcd-mcdrive-mate | yi********ng | 17 |
+| 27 | mcd-auto-coupon | od****24 | 16 |
+| 27 | mcdinner-mate | jk*****ii | 16 |
+| 27 | mcd-points-actuary | ak**in | 16 |
+| 27 | mcd-chill | yh**zl | 16 |
+| 31 | mcd-voice-order-assistant | 麦* | 15 |
+| 32 | mcd-terminal | Zh*******mo | 14 |
+| 32 | mcd-git | zh******me | 14 |
+| 32 | mcd-party-buddy | Ne***93 | 14 |
+| 32 | mcd-meal-brain | 麦* | 14 |
+| 32 | chilemai | He****nZ | 14 |
+| 32 | mcd-budget-skill | Li****nx | 14 |
+| 32 | mcd-craving-coach | ke******su | 14 |
+| 39 | mcd-merch-intel | Le******27 | 13 |
+| 39 | mcd-easy-order | wa******i2 | 13 |
 | 41 | mcd-activity-intel | Jo*********ub | 12 |
 | 41 | mcd-100kcal | sh*****ry | 12 |
 | 41 | mcfit-agent | 22******09 | 12 |
@@ -52,13 +52,13 @@
 | 46 | mcd-persona-card | Yo****25 | 10 |
 | 46 | super-mcd-benefits-radar | co**n9 | 10 |
 | 46 | mcd-skill | do******an | 10 |
+| 49 | mcd-solver | ft***wf | 9 |
 | 49 | mcd-health-buddy | Qi****07 | 9 |
 | 49 | mcd-calorie-calculator | El*****aw | 9 |
 | 49 | mcd-now | xu*****21 | 9 |
-| 52 | maimen-butler | 07*iu | 8 |
-| 52 | mcd-order-memory | zk***rz | 8 |
-| 52 | mcd-solver | ft***wf | 8 |
-| 52 | mcd-personality | xi*******ch | 8 |
+| 53 | maimen-butler | 07*iu | 8 |
+| 53 | mcd-order-memory | zk***rz | 8 |
+| 53 | mcd-personality | xi*******ch | 8 |
 | 56 | mcd-budget-bite | Tt*Mc | 7 |
 | 56 | mcd-points-butler | li****ng | 7 |
 | 56 | taste-assistant-skill | ch******un | 7 |
