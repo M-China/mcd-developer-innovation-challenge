@@ -1,11 +1,11 @@
 # 麦当劳程序员创意开发大赛排行榜
 
-更新时间：2026-10-11 08:00:26
+更新时间：2026-10-11 09:00:24
 
 | 名次 | 项目名称 | Owner 昵称 | Star 数 |
 |---:|---|---|---:|
 | 1 | mcd-event-radar | Za*****iu | 68 |
-| 2 | mcd-coupon-strategist | Ay****23 | 62 |
+| 2 | mcd-coupon-strategist | Ay****23 | 63 |
 | 3 | mcd-party-officer | yz***26 | 58 |
 | 4 | mcd-order-calories | Br****id | 37 |
 | 5 | mcd-mbti | xi********en | 34 |
@@ -17,20 +17,20 @@
 | 11 | mcd-party-buddy | Ne***93 | 23 |
 | 11 | mcd-calorie-budget-skill | cy******us | 23 |
 | 11 | mcd-no-pickle | mo********an | 23 |
-| 14 | mcd-breakfast-variety | To********ei | 21 |
-| 15 | mcd-cart-optimizer | du******32 | 19 |
-| 15 | maimai-fun-orderer | Fu****ng | 19 |
-| 17 | mcd-craving-coach | ke******su | 18 |
-| 18 | mcd-1024-skill | 麦* | 17 |
-| 18 | mcd-points-vault | my******66 | 17 |
-| 18 | mcd-mcdrive-mate | yi********ng | 17 |
+| 14 | maimai-fun-orderer | Fu****ng | 22 |
+| 15 | mcd-breakfast-variety | To********ei | 21 |
+| 16 | mcd-cart-optimizer | du******32 | 19 |
+| 16 | mcd-craving-coach | ke******su | 19 |
+| 18 | mcd-1024-skill | 麦* | 18 |
+| 19 | mcd-points-vault | my******66 | 17 |
+| 19 | mcd-mcdrive-mate | yi********ng | 17 |
 | 21 | mcd-points-actuary | ak**in | 16 |
 | 21 | mcd-save-master | ya***oo | 16 |
-| 23 | MM-helper | si*************ep | 15 |
-| 23 | mcd-voice-order-assistant | 麦* | 15 |
-| 25 | McOptima | YO**XX | 14 |
-| 25 | chilemai | He****nZ | 14 |
-| 25 | mcd-budget-skill | Li****nx | 14 |
+| 21 | McOptima | YO**XX | 16 |
+| 24 | MM-helper | si*************ep | 15 |
+| 24 | mcd-voice-order-assistant | 麦* | 15 |
+| 26 | chilemai | He****nZ | 14 |
+| 26 | mcd-budget-skill | Li****nx | 14 |
 | 28 | mcd-merch-intel | Le******27 | 13 |
 | 28 | mcd-easy-order | wa******i2 | 13 |
 | 30 | mcd-activity-intel | Jo*********ub | 12 |
@@ -54,13 +54,13 @@
 | 45 | mcd-points-butler | li****ng | 7 |
 | 45 | taste-assistant-skill | ch******un | 7 |
 | 45 | mc-breakeven | ca****es | 7 |
+| 45 | mcd-chill | yh**zl | 7 |
 | 45 | mcd-meal-skill | ba*****an | 7 |
-| 52 | mcd-triple-target | y**u | 6 |
-| 52 | mcd-git | de******hl | 6 |
-| 52 | mcd-m-balance | sa*******ao | 6 |
-| 52 | mcd-diff | we******21 | 6 |
-| 52 | mcd-chill | yh**zl | 6 |
-| 52 | mcd-budget-order | Xi****an | 6 |
+| 53 | mcd-triple-target | y**u | 6 |
+| 53 | mcd-git | de******hl | 6 |
+| 53 | mcd-m-balance | sa*******ao | 6 |
+| 53 | mcd-diff | we******21 | 6 |
+| 53 | mcd-budget-order | Xi****an | 6 |
 | 58 | mcd-grail-radar | mu**oc | 5 |
 | 58 | mcd-saver-guru | xn****ng | 5 |
 | 58 | mcd-mcp-server-token | 87*****61 | 5 |
