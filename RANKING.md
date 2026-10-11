@@ -1,6 +1,6 @@
 # 麦当劳程序员创意开发大赛排行榜
 
-更新时间：2026-10-11 13:00:26
+更新时间：2026-10-11 14:00:26
 
 | 名次 | 项目名称 | Owner 昵称 | Star 数 |
 |---:|---|---|---:|
@@ -12,51 +12,51 @@
 | 6 | MCD-happy-meal | pa***85 | 33 |
 | 6 | mcd-saver-strategist | hu**un | 33 |
 | 8 | mcd-fortune | zm************ud | 29 |
-| 9 | maimai-fun-orderer | Fu****ng | 27 |
+| 9 | maimai-fun-orderer | Fu****ng | 28 |
 | 10 | mcd-fries-architect | yu*********ng | 24 |
 | 11 | mcd-calorie-budget-skill | cy******us | 23 |
 | 12 | mcd-party-buddy | Ne***93 | 21 |
 | 12 | mcd-no-pickle | mo********an | 21 |
 | 12 | m-type | sh****ab | 21 |
 | 12 | mcd-breakfast-variety | To********ei | 21 |
-| 16 | mcd-cart-optimizer | du******32 | 19 |
-| 16 | mcd-craving-coach | ke******su | 19 |
-| 18 | mcd-1024-skill | 麦* | 18 |
-| 18 | mcd-china-map | Ja*****CN | 18 |
+| 16 | mcd-craving-coach | ke******su | 20 |
+| 16 | mcd-china-map | Ja*****CN | 20 |
+| 18 | mcd-1024-skill | 麦* | 19 |
+| 18 | mcd-cart-optimizer | du******32 | 19 |
 | 20 | mcd-points-vault | my******66 | 17 |
+| 20 | MM-helper | si*************ep | 17 |
 | 20 | McOptima | YO**XX | 17 |
 | 20 | mcd-mcdrive-mate | yi********ng | 17 |
-| 23 | mcd-points-actuary | ak**in | 16 |
-| 23 | MM-helper | si*************ep | 16 |
-| 23 | mcd-save-master | ya***oo | 16 |
+| 24 | mcd-points-actuary | ak**in | 16 |
+| 24 | mcd-save-master | ya***oo | 16 |
 | 26 | mcd-voice-order-assistant | 麦* | 15 |
 | 27 | chilemai | He****nZ | 14 |
 | 27 | mcd-budget-skill | Li****nx | 14 |
 | 29 | mcd-merch-intel | Le******27 | 13 |
 | 29 | mcd-easy-order | wa******i2 | 13 |
 | 29 | mcd-meal-brain | 麦* | 13 |
-| 32 | mcd-activity-intel | Jo*********ub | 12 |
-| 32 | mcd-100kcal | sh*****ry | 12 |
-| 32 | mcdinner-mate | jk*****ii | 12 |
-| 32 | mcperks-planner | qi******62 | 12 |
-| 36 | mac-Buddy | i**4 | 11 |
-| 36 | mcd-chill | yh**zl | 11 |
-| 36 | mcd-macro-strategist | ji******ue | 11 |
+| 29 | mcd-chill | yh**zl | 13 |
+| 33 | mcd-activity-intel | Jo*********ub | 12 |
+| 33 | mcd-100kcal | sh*****ry | 12 |
+| 33 | mcdinner-mate | jk*****ii | 12 |
+| 33 | mcperks-planner | qi******62 | 12 |
+| 37 | mac-Buddy | i**4 | 11 |
+| 37 | mcd-macro-strategist | ji******ue | 11 |
 | 39 | mcd-persona-card | Yo****25 | 10 |
 | 39 | mcd-skill | do******an | 10 |
 | 41 | mcd-health-buddy | Qi****07 | 9 |
 | 41 | mcd-calorie-calculator | El*****aw | 9 |
 | 41 | mcd-now | xu*****21 | 9 |
+| 44 | mcd-terminal | Zh*******mo | 8 |
 | 44 | maimen-butler | 07*iu | 8 |
 | 44 | mcd-order-memory | zk***rz | 8 |
 | 44 | super-mcd-benefits-radar | co**n9 | 8 |
 | 44 | mcd-personality | xi*******ch | 8 |
-| 48 | mcd-terminal | Zh*******mo | 7 |
-| 48 | mcd-budget-bite | Tt*Mc | 7 |
-| 48 | mcd-points-butler | li****ng | 7 |
-| 48 | taste-assistant-skill | ch******un | 7 |
-| 48 | mc-breakeven | ca****es | 7 |
-| 48 | mcd-meal-skill | ba*****an | 7 |
+| 49 | mcd-budget-bite | Tt*Mc | 7 |
+| 49 | mcd-points-butler | li****ng | 7 |
+| 49 | taste-assistant-skill | ch******un | 7 |
+| 49 | mc-breakeven | ca****es | 7 |
+| 49 | mcd-meal-skill | ba*****an | 7 |
 | 54 | mcd-git | zh******me | 6 |
 | 54 | mcd-triple-target | y**u | 6 |
 | 54 | mcd-git | de******hl | 6 |
