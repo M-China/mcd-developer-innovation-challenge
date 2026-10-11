@@ -1,6 +1,6 @@
 # 麦当劳程序员创意开发大赛排行榜
 
-更新时间：2026-10-12 04:00:29
+更新时间：2026-10-12 05:00:28
 
 | 名次 | 项目名称 | Owner 昵称 | Star 数 |
 |---:|---|---|---:|
@@ -16,11 +16,11 @@
 | 9 | maimai-fun-orderer | Fu****ng | 29 |
 | 11 | McOptima | YO**XX | 27 |
 | 11 | mcd-fries-architect | yu*********ng | 27 |
+| 13 | McLife-Desk | Ni***-w | 24 |
 | 13 | mcd-breakfast-variety | To********ei | 24 |
-| 14 | mcd-calorie-budget-skill | cy******us | 23 |
-| 14 | mcd-china-map | Ja*****CN | 23 |
-| 16 | McLife-Desk | Ni***-w | 22 |
-| 17 | MM-helper | si*************ep | 21 |
+| 13 | mcd-china-map | Ja*****CN | 24 |
+| 16 | mcd-calorie-budget-skill | cy******us | 23 |
+| 17 | MM-helper | si*************ep | 22 |
 | 18 | mcd-1024-skill | 麦* | 19 |
 | 18 | mcd-cart-optimizer | du******32 | 19 |
 | 20 | mcd-no-pickle | mo********an | 18 |
@@ -47,12 +47,12 @@
 | 41 | mcd-activity-intel | Jo*********ub | 12 |
 | 41 | mcd-100kcal | sh*****ry | 12 |
 | 41 | mcfit-agent | 22******09 | 12 |
+| 44 | mcd-solver | ft***wf | 11 |
 | 44 | mcd-memory-can | Ma******90 | 11 |
 | 44 | mcd-macro-strategist | ji******ue | 11 |
-| 46 | mcd-persona-card | Yo****25 | 10 |
-| 46 | super-mcd-benefits-radar | co**n9 | 10 |
-| 46 | mcd-solver | ft***wf | 10 |
-| 46 | mcd-skill | do******an | 10 |
+| 47 | mcd-persona-card | Yo****25 | 10 |
+| 47 | super-mcd-benefits-radar | co**n9 | 10 |
+| 47 | mcd-skill | do******an | 10 |
 | 50 | mcd-health-buddy | Qi****07 | 9 |
 | 50 | mcd-calorie-calculator | El*****aw | 9 |
 | 50 | mcd-now | xu*****21 | 9 |
