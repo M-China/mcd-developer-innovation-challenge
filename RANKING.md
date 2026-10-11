@@ -1,6 +1,6 @@
 # 麦当劳程序员创意开发大赛排行榜
 
-更新时间：2026-10-12 03:00:28
+更新时间：2026-10-12 04:00:29
 
 | 名次 | 项目名称 | Owner 昵称 | Star 数 |
 |---:|---|---|---:|
@@ -14,26 +14,26 @@
 | 7 | mcd-saver-strategist | hu**un | 33 |
 | 9 | mcd-fortune | zm************ud | 29 |
 | 9 | maimai-fun-orderer | Fu****ng | 29 |
+| 11 | McOptima | YO**XX | 27 |
 | 11 | mcd-fries-architect | yu*********ng | 27 |
-| 12 | McOptima | YO**XX | 26 |
 | 13 | mcd-breakfast-variety | To********ei | 24 |
 | 14 | mcd-calorie-budget-skill | cy******us | 23 |
 | 14 | mcd-china-map | Ja*****CN | 23 |
-| 16 | MM-helper | si*************ep | 20 |
-| 17 | mcd-1024-skill | 麦* | 19 |
-| 17 | McLife-Desk | Ni***-w | 19 |
-| 17 | mcd-cart-optimizer | du******32 | 19 |
+| 16 | McLife-Desk | Ni***-w | 22 |
+| 17 | MM-helper | si*************ep | 21 |
+| 18 | mcd-1024-skill | 麦* | 19 |
+| 18 | mcd-cart-optimizer | du******32 | 19 |
 | 20 | mcd-no-pickle | mo********an | 18 |
 | 20 | m-type | sh****ab | 18 |
 | 20 | mac-Buddy | i**4 | 18 |
+| 23 | mcdinner-mate | jk*****ii | 17 |
 | 23 | mcd-points-vault | my******66 | 17 |
 | 23 | mcperks-planner | qi******62 | 17 |
 | 23 | mcd-save-master | ya***oo | 17 |
 | 23 | mcd-mcdrive-mate | yi********ng | 17 |
-| 27 | mcd-auto-coupon | od****24 | 16 |
-| 27 | mcdinner-mate | jk*****ii | 16 |
-| 27 | mcd-points-actuary | ak**in | 16 |
-| 27 | mcd-chill | yh**zl | 16 |
+| 28 | mcd-auto-coupon | od****24 | 16 |
+| 28 | mcd-points-actuary | ak**in | 16 |
+| 28 | mcd-chill | yh**zl | 16 |
 | 31 | mcd-voice-order-assistant | 麦* | 15 |
 | 32 | mcd-terminal | Zh*******mo | 14 |
 | 32 | mcd-git | zh******me | 14 |
@@ -51,11 +51,11 @@
 | 44 | mcd-macro-strategist | ji******ue | 11 |
 | 46 | mcd-persona-card | Yo****25 | 10 |
 | 46 | super-mcd-benefits-radar | co**n9 | 10 |
+| 46 | mcd-solver | ft***wf | 10 |
 | 46 | mcd-skill | do******an | 10 |
-| 49 | mcd-solver | ft***wf | 9 |
-| 49 | mcd-health-buddy | Qi****07 | 9 |
-| 49 | mcd-calorie-calculator | El*****aw | 9 |
-| 49 | mcd-now | xu*****21 | 9 |
+| 50 | mcd-health-buddy | Qi****07 | 9 |
+| 50 | mcd-calorie-calculator | El*****aw | 9 |
+| 50 | mcd-now | xu*****21 | 9 |
 | 53 | maimen-butler | 07*iu | 8 |
 | 53 | mcd-order-memory | zk***rz | 8 |
 | 53 | mcd-personality | xi*******ch | 8 |
@@ -108,4 +108,5 @@
 | 82 | mcd-nutritionist | sc***19 | 4 |
 | 82 | mcd-feast-planner | hy*******nk | 4 |
 | 82 | mcd-mate | ri***ly | 4 |
+| 82 | mcmuscle-ai | lj***fa | 4 |
 | 82 | mcd-roguelike-order | Bi*****30 | 4 |
