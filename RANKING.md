@@ -1,42 +1,42 @@
 # 麦当劳程序员创意开发大赛排行榜
 
-更新时间：2026-10-13 06:00:37
+更新时间：2026-10-13 07:00:36
 
 | 名次 | 项目名称 | Owner 昵称 | Star 数 |
 |---:|---|---|---:|
 | 1 | mcd-coupon-strategist | Ay****23 | 232 |
-| 2 | mccarbon | 麦* | 158 |
-| 2 | mcd-party-officer | yz***26 | 158 |
+| 2 | mccarbon | 麦* | 184 |
+| 3 | mcd-party-officer | yz***26 | 158 |
 | 4 | mcd-budget-meal | Sa*******ot | 142 |
 | 5 | mcd-hui-life | cc************tm | 110 |
-| 6 | mcd-git | zh******me | 74 |
-| 7 | MM-helper | si*************ep | 73 |
-| 8 | mcd-event-radar | Za*****iu | 72 |
-| 9 | McLife-Desk | Ni***-w | 65 |
+| 6 | MM-helper | si*************ep | 76 |
+| 7 | mcd-git | zh******me | 74 |
+| 8 | mcd-event-radar | Za*****iu | 73 |
+| 9 | McLife-Desk | Ni***-w | 68 |
 | 10 | maimai-fun-orderer | Fu****ng | 50 |
 | 11 | mcd-saver-strategist | hu**un | 49 |
 | 12 | McOptima | YO**XX | 42 |
 | 13 | mcd-mbti | xi********en | 37 |
 | 13 | mcd-order-calories | Br****id | 37 |
-| 13 | mcd-china-map | Ja*****CN | 37 |
+| 15 | mcd-china-map | Ja*****CN | 36 |
 | 16 | MCD-happy-meal | pa***85 | 34 |
 | 17 | mcd-fortune | zm************ud | 30 |
 | 18 | mcd-breakfast-variety | To********ei | 29 |
 | 18 | mcperks-planner | qi******62 | 29 |
+| 20 | mcd-wrapped | lv*****ng | 27 |
 | 20 | mcd-fries-architect | yu*********ng | 27 |
-| 21 | m-type | sh****ab | 26 |
-| 21 | mcd-chill | yh**zl | 26 |
-| 23 | mcd-1024-skill | 麦* | 25 |
-| 23 | mcd-wrapped | lv*****ng | 25 |
-| 25 | maimen-certification | ch*****ao | 24 |
-| 26 | mcd-party-buddy | Ne***93 | 23 |
-| 26 | mcd-solver | ft***wf | 23 |
-| 26 | mcd-no-pickle | mo********an | 23 |
-| 26 | mcd-best-deal | lz********wq | 23 |
+| 22 | m-type | sh****ab | 26 |
+| 22 | mcd-chill | yh**zl | 26 |
+| 24 | mcd-1024-skill | 麦* | 25 |
+| 24 | maimen-certification | ch*****ao | 25 |
+| 26 | mcd-solver | ft***wf | 24 |
+| 27 | mcd-party-buddy | Ne***93 | 23 |
+| 27 | mcd-no-pickle | mo********an | 23 |
+| 27 | mcd-best-deal | lz********wq | 23 |
 | 30 | mcdinner-mate | jk*****ii | 22 |
 | 30 | mcd-calorie-budget-skill | cy******us | 22 |
-| 32 | mac-Buddy | i**4 | 20 |
-| 32 | mcd-craving-coach | ke******su | 20 |
+| 32 | mac-Buddy | i**4 | 21 |
+| 33 | mcd-craving-coach | ke******su | 20 |
 | 34 | mcd-terminal | Zh*******mo | 19 |
 | 34 | mcd-cart-optimizer | du******32 | 19 |
 | 36 | mcd-points-vault | my******66 | 17 |
