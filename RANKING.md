@@ -1,35 +1,35 @@
 # 麦当劳程序员创意开发大赛排行榜
 
-更新时间：2026-10-14 02:00:44
+更新时间：2026-10-14 03:00:42
 
 | 名次 | 项目名称 | Owner 昵称 | Star 数 |
 |---:|---|---|---:|
 | 1 | mcd-coupon-strategist | Ay****23 | 277 |
 | 2 | mcd-party-officer | yz***26 | 235 |
 | 3 | mccarbon | 麦* | 206 |
-| 4 | McOracle | sp*******on | 163 |
-| 5 | mcd-saver-strategist | hu**un | 143 |
-| 6 | mcd-budget-meal | Sa*******ot | 142 |
-| 7 | mcd-calorie-butler | Wi*********ck | 140 |
-| 8 | McLife-Desk | Ni***-w | 113 |
+| 4 | McOracle | sp*******on | 170 |
+| 5 | mcd-saver-strategist | hu**un | 149 |
+| 6 | mcd-calorie-butler | Wi*********ck | 143 |
+| 7 | mcd-budget-meal | Sa*******ot | 142 |
+| 8 | McLife-Desk | Ni***-w | 115 |
 | 9 | mcd-hui-life | cc************tm | 111 |
-| 10 | meal-puzzle | ju*****un | 107 |
-| 11 | MM-helper | si*************ep | 80 |
+| 10 | meal-puzzle | ju*****un | 108 |
+| 11 | MM-helper | si*************ep | 84 |
 | 12 | mcd-git | zh******me | 78 |
 | 13 | mcd-event-radar | Za*****iu | 73 |
-| 14 | mcd-wrapped | lv*****ng | 67 |
-| 15 | maimen-certification | ch*****ao | 61 |
+| 14 | mcd-wrapped | lv*****ng | 68 |
+| 15 | maimen-certification | ch*****ao | 62 |
 | 16 | maimai-fun-orderer | Fu****ng | 60 |
-| 17 | McOptima | YO**XX | 50 |
-| 18 | mcd-1024-skill | 麦* | 38 |
+| 17 | McOptima | YO**XX | 51 |
+| 18 | mcd-1024-skill | 麦* | 39 |
 | 19 | mcd-chill | yh**zl | 37 |
 | 19 | mcd-mbti | xi********en | 37 |
 | 19 | mcd-order-calories | Br****id | 37 |
 | 22 | MCD-happy-meal | pa***85 | 34 |
 | 22 | mcd-china-map | Ja*****CN | 34 |
-| 24 | mcperks-planner | qi******62 | 32 |
-| 25 | mcd-auto-coupon | od****24 | 31 |
-| 25 | mcd-solver | ft***wf | 31 |
+| 24 | mcd-solver | ft***wf | 33 |
+| 25 | mcperks-planner | qi******62 | 32 |
+| 26 | mcd-auto-coupon | od****24 | 31 |
 | 27 | mcd-fortune | zm************ud | 30 |
 | 27 | mcd-breakfast-variety | To********ei | 30 |
 | 29 | mcdinner-mate | jk*****ii | 28 |
@@ -68,11 +68,11 @@
 | 62 | mcd-easy-order | wa******i2 | 13 |
 | 62 | mcfit-agent | 22******09 | 13 |
 | 62 | mac-Buddy | i**4 | 13 |
+| 65 | mcd-persona-card | Yo****25 | 12 |
 | 65 | maimen-butler | 07*iu | 12 |
 | 65 | mcd-mood-palette | Le**********IR | 12 |
-| 67 | mcd-persona-card | Yo****25 | 11 |
-| 67 | mcd-profile | de*****21 | 11 |
-| 67 | McReadme-Card | co******ee | 11 |
+| 68 | mcd-profile | de*****21 | 11 |
+| 68 | McReadme-Card | co******ee | 11 |
 | 70 | mcd-commit-fuel | by**nx | 10 |
 | 70 | mcd-dex | de*****mo | 10 |
 | 70 | mcd-calorie-calculator | El*****aw | 10 |
