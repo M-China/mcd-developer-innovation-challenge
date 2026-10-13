@@ -1,6 +1,6 @@
 # 麦当劳程序员创意开发大赛排行榜
 
-更新时间：2026-10-13 20:00:41
+更新时间：2026-10-13 20:31:02
 
 | 名次 | 项目名称 | Owner 昵称 | Star 数 |
 |---:|---|---|---:|
@@ -8,13 +8,13 @@
 | 2 | mcd-party-officer | yz***26 | 208 |
 | 3 | mccarbon | 麦* | 206 |
 | 4 | mcd-budget-meal | Sa*******ot | 142 |
-| 5 | mcd-calorie-butler | Wi*********ck | 116 |
+| 5 | mcd-calorie-butler | Wi*********ck | 122 |
 | 6 | mcd-hui-life | cc************tm | 111 |
 | 7 | mcd-saver-strategist | hu**un | 106 |
-| 8 | meal-puzzle | ju*****un | 104 |
-| 9 | MM-helper | si*************ep | 100 |
-| 10 | McLife-Desk | Ni***-w | 96 |
-| 11 | McOracle | sp*******on | 95 |
+| 8 | meal-puzzle | ju*****un | 105 |
+| 9 | MM-helper | si*************ep | 102 |
+| 10 | McOracle | sp*******on | 101 |
+| 11 | McLife-Desk | Ni***-w | 97 |
 | 12 | mcd-git | zh******me | 78 |
 | 13 | mcd-event-radar | Za*****iu | 73 |
 | 14 | mcd-wrapped | lv*****ng | 62 |
@@ -25,11 +25,11 @@
 | 19 | mcd-mbti | xi********en | 37 |
 | 19 | mcd-order-calories | Br****id | 37 |
 | 21 | mcd-chill | yh**zl | 36 |
+| 22 | mcd-1024-skill | 麦* | 34 |
 | 22 | MCD-happy-meal | pa***85 | 34 |
-| 23 | mcd-1024-skill | 麦* | 32 |
-| 24 | mcd-auto-coupon | od****24 | 30 |
-| 24 | mcd-fortune | zm************ud | 30 |
-| 24 | mcd-breakfast-variety | To********ei | 30 |
+| 24 | mcd-auto-coupon | od****24 | 31 |
+| 25 | mcd-fortune | zm************ud | 30 |
+| 25 | mcd-breakfast-variety | To********ei | 30 |
 | 27 | mcd-solver | ft***wf | 29 |
 | 27 | mcperks-planner | qi******62 | 29 |
 | 29 | mcd-best-deal | lz********wq | 28 |
