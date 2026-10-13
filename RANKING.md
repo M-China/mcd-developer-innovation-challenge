@@ -1,27 +1,27 @@
 # 麦当劳程序员创意开发大赛排行榜
 
-更新时间：2026-10-13 21:00:41
+更新时间：2026-10-13 22:00:42
 
 | 名次 | 项目名称 | Owner 昵称 | Star 数 |
 |---:|---|---|---:|
 | 1 | mcd-coupon-strategist | Ay****23 | 256 |
-| 2 | mcd-party-officer | yz***26 | 210 |
+| 2 | mcd-party-officer | yz***26 | 211 |
 | 3 | mccarbon | 麦* | 206 |
-| 4 | mcd-budget-meal | Sa*******ot | 142 |
-| 5 | mcd-calorie-butler | Wi*********ck | 124 |
-| 6 | McOracle | sp*******on | 116 |
+| 4 | McOracle | sp*******on | 152 |
+| 5 | mcd-budget-meal | Sa*******ot | 142 |
+| 6 | mcd-calorie-butler | Wi*********ck | 131 |
 | 7 | mcd-hui-life | cc************tm | 111 |
-| 8 | meal-puzzle | ju*****un | 106 |
-| 8 | mcd-saver-strategist | hu**un | 106 |
-| 10 | MM-helper | si*************ep | 102 |
-| 11 | McLife-Desk | Ni***-w | 98 |
+| 8 | meal-puzzle | ju*****un | 107 |
+| 9 | mcd-saver-strategist | hu**un | 106 |
+| 10 | MM-helper | si*************ep | 103 |
+| 11 | McLife-Desk | Ni***-w | 99 |
 | 12 | mcd-git | zh******me | 78 |
 | 13 | mcd-event-radar | Za*****iu | 73 |
-| 14 | mcd-wrapped | lv*****ng | 63 |
+| 14 | mcd-wrapped | lv*****ng | 66 |
 | 15 | maimai-fun-orderer | Fu****ng | 59 |
+| 16 | maimen-certification | ch*****ao | 49 |
 | 16 | McOptima | YO**XX | 49 |
-| 17 | maimen-certification | ch*****ao | 47 |
-| 18 | mcd-china-map | Ja*****CN | 39 |
+| 18 | mcd-china-map | Ja*****CN | 38 |
 | 19 | mcd-mbti | xi********en | 37 |
 | 19 | mcd-order-calories | Br****id | 37 |
 | 21 | mcd-chill | yh**zl | 36 |
@@ -41,9 +41,9 @@
 | 34 | mcd-no-pickle | mo********an | 23 |
 | 34 | mcd-craving-coach | ke******su | 23 |
 | 37 | mcd-calorie-budget-skill | cy******us | 22 |
-| 38 | mcd-terminal | Zh*******mo | 21 |
-| 38 | mcd-receipt-persona | Ed******0Z | 21 |
-| 38 | mac-Buddy | i**4 | 21 |
+| 37 | mcd-receipt-persona | Ed******0Z | 22 |
+| 39 | mcd-terminal | Zh*******mo | 21 |
+| 39 | mac-Buddy | i**4 | 21 |
 | 41 | mcd-cart-optimizer | du******32 | 19 |
 | 42 | mcd-points-vault | my******66 | 18 |
 | 43 | mcd-save-master | ya***oo | 17 |
@@ -83,24 +83,25 @@
 | 76 | mcd-a11y-counter | ya************ch | 9 |
 | 76 | mcd-pet-feeder | po***************ll | 9 |
 | 76 | lunch-surprise-box | Mi*********op | 9 |
+| 76 | mcd-skill | Mi********53 | 9 |
 | 76 | mcd-now | xu*****21 | 9 |
-| 81 | mcd-order-memory | zk***rz | 8 |
-| 81 | mcd-diff | we******21 | 8 |
-| 81 | mcd-budget-planner | AA**EE | 8 |
-| 81 | mcdindex | we******ui | 8 |
-| 81 | mcd-skill | Mi********53 | 8 |
-| 81 | mcd-personality | xi*******ch | 8 |
-| 81 | mcd-blindbox-dex | wi*******16 | 8 |
-| 88 | maimai-mealcrew | id*****ry | 7 |
-| 88 | mcd-points-butler | li****ng | 7 |
-| 88 | taste-assistant-skill | ch******un | 7 |
-| 88 | mcd-dex | de*****mo | 7 |
-| 88 | mcd-nutrition-coach | El**********ng | 7 |
-| 88 | mcd-mindreader | ke******33 | 7 |
-| 88 | mcd-fate-combo | xc***gh | 7 |
-| 88 | mcd-worth-it | d-****ng | 7 |
-| 88 | mc-points-steward | yu****ai | 7 |
-| 88 | mcd-pin-reminder | Mi**sa | 7 |
-| 88 | mc-breakeven | ca****es | 7 |
-| 88 | mcd-xuanxue-order-skill | Ja******lc | 7 |
-| 88 | mcd-meal-skill | ba*****an | 7 |
+| 82 | mcd-order-memory | zk***rz | 8 |
+| 82 | mcd-dex | de*****mo | 8 |
+| 82 | mcd-diff | we******21 | 8 |
+| 82 | mcd-budget-planner | AA**EE | 8 |
+| 82 | mcdindex | we******ui | 8 |
+| 82 | mcd-personality | xi*******ch | 8 |
+| 82 | mcd-blindbox-dex | wi*******16 | 8 |
+| 89 | maimai-mealcrew | id*****ry | 7 |
+| 89 | mcd-points-butler | li****ng | 7 |
+| 89 | taste-assistant-skill | ch******un | 7 |
+| 89 | mcd-nutrition-coach | El**********ng | 7 |
+| 89 | mcd-mindreader | ke******33 | 7 |
+| 89 | mcd-fate-combo | xc***gh | 7 |
+| 89 | mcd-worth-it | d-****ng | 7 |
+| 89 | mc-points-steward | yu****ai | 7 |
+| 89 | mcd-agent-gourmet | po*********rt | 7 |
+| 89 | mcd-pin-reminder | Mi**sa | 7 |
+| 89 | mc-breakeven | ca****es | 7 |
+| 89 | mcd-xuanxue-order-skill | Ja******lc | 7 |
+| 89 | mcd-meal-skill | ba*****an | 7 |
