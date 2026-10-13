@@ -1,6 +1,6 @@
 # 麦当劳程序员创意开发大赛排行榜
 
-更新时间：2026-10-13 18:00:40
+更新时间：2026-10-13 19:00:37
 
 | 名次 | 项目名称 | Owner 昵称 | Star 数 |
 |---:|---|---|---:|
@@ -10,20 +10,20 @@
 | 4 | mcd-budget-meal | Sa*******ot | 142 |
 | 5 | mcd-hui-life | cc************tm | 111 |
 | 6 | mcd-saver-strategist | hu**un | 106 |
-| 7 | MM-helper | si*************ep | 95 |
-| 8 | McLife-Desk | Ni***-w | 92 |
-| 9 | mcd-git | zh******me | 78 |
-| 9 | meal-puzzle | ju*****un | 78 |
-| 11 | mcd-event-radar | Za*****iu | 73 |
-| 12 | maimai-fun-orderer | Fu****ng | 58 |
-| 13 | mcd-calorie-butler | Wi*********ck | 55 |
-| 14 | mcd-wrapped | lv*****ng | 54 |
-| 15 | McOracle | sp*******on | 46 |
-| 15 | McOptima | YO**XX | 46 |
-| 17 | mcd-china-map | Ja*****CN | 38 |
-| 18 | mcd-mbti | xi********en | 37 |
-| 18 | mcd-order-calories | Br****id | 37 |
-| 20 | maimen-certification | ch*****ao | 36 |
+| 7 | MM-helper | si*************ep | 98 |
+| 8 | meal-puzzle | ju*****un | 97 |
+| 9 | McLife-Desk | Ni***-w | 95 |
+| 10 | mcd-calorie-butler | Wi*********ck | 93 |
+| 11 | mcd-git | zh******me | 78 |
+| 12 | mcd-event-radar | Za*****iu | 73 |
+| 13 | McOracle | sp*******on | 69 |
+| 14 | mcd-wrapped | lv*****ng | 59 |
+| 15 | maimai-fun-orderer | Fu****ng | 58 |
+| 16 | McOptima | YO**XX | 49 |
+| 17 | maimen-certification | ch*****ao | 41 |
+| 18 | mcd-china-map | Ja*****CN | 39 |
+| 19 | mcd-mbti | xi********en | 37 |
+| 19 | mcd-order-calories | Br****id | 37 |
 | 21 | mcd-chill | yh**zl | 35 |
 | 22 | MCD-happy-meal | pa***85 | 34 |
 | 23 | mcd-1024-skill | 麦* | 30 |
@@ -31,22 +31,22 @@
 | 23 | mcd-breakfast-variety | To********ei | 30 |
 | 26 | mcd-solver | ft***wf | 29 |
 | 26 | mcperks-planner | qi******62 | 29 |
-| 28 | mcdinner-mate | jk*****ii | 27 |
-| 28 | mcd-fries-architect | yu*********ng | 27 |
-| 30 | m-type | sh****ab | 26 |
-| 30 | mcd-mate | ri***ly | 26 |
-| 32 | mcd-party-buddy | Ne***93 | 23 |
-| 32 | mcd-no-pickle | mo********an | 23 |
-| 32 | mcd-best-deal | lz********wq | 23 |
-| 35 | mcd-calorie-budget-skill | cy******us | 22 |
-| 35 | mcd-craving-coach | ke******su | 22 |
+| 28 | mcd-best-deal | lz********wq | 28 |
+| 29 | mcdinner-mate | jk*****ii | 27 |
+| 29 | mcd-fries-architect | yu*********ng | 27 |
+| 31 | m-type | sh****ab | 26 |
+| 31 | mcd-mate | ri***ly | 26 |
+| 33 | mcd-party-buddy | Ne***93 | 23 |
+| 33 | mcd-no-pickle | mo********an | 23 |
+| 33 | mcd-craving-coach | ke******su | 23 |
+| 36 | mcd-calorie-budget-skill | cy******us | 22 |
 | 37 | mac-Buddy | i**4 | 21 |
 | 38 | mcd-terminal | Zh*******mo | 20 |
-| 39 | mcd-receipt-persona | Ed******0Z | 19 |
-| 39 | mcd-cart-optimizer | du******32 | 19 |
-| 41 | mcd-points-vault | my******66 | 17 |
-| 41 | mcd-save-master | ya***oo | 17 |
-| 41 | mcd-mcdrive-mate | yi********ng | 17 |
+| 38 | mcd-receipt-persona | Ed******0Z | 20 |
+| 40 | mcd-cart-optimizer | du******32 | 19 |
+| 41 | mcd-points-vault | my******66 | 18 |
+| 42 | mcd-save-master | ya***oo | 17 |
+| 42 | mcd-mcdrive-mate | yi********ng | 17 |
 | 44 | mcd-auto-coupon | od****24 | 16 |
 | 44 | super-mcd-benefits-radar | co**n9 | 16 |
 | 44 | mcd-100kcal | sh*****ry | 16 |
@@ -60,18 +60,18 @@
 | 51 | mcd-cn-assistant | ju************er | 15 |
 | 51 | mcd-macro-strategist | ji******ue | 15 |
 | 51 | mcd-voice-order-assistant | 麦* | 15 |
+| 57 | mcd-meal-butler | cw****26 | 14 |
 | 57 | mcd-meal-brain | 麦* | 14 |
 | 57 | chilemai | He****nZ | 14 |
 | 57 | mcd-budget-skill | Li****nx | 14 |
-| 60 | mcd-tablemate | yo********xi | 13 |
-| 60 | mcd-meal-butler | cw****26 | 13 |
-| 60 | mcd-easy-order | wa******i2 | 13 |
-| 60 | mcfit-agent | 22******09 | 13 |
+| 61 | mcd-tablemate | yo********xi | 13 |
+| 61 | mcd-easy-order | wa******i2 | 13 |
+| 61 | mcfit-agent | 22******09 | 13 |
 | 64 | maimen-butler | 07*iu | 12 |
-| 65 | mcd-profile | de*****21 | 11 |
-| 65 | mcd-mood-palette | Le**********IR | 11 |
-| 65 | McReadme-Card | co******ee | 11 |
-| 65 | mcd-memory-can | Ma******90 | 11 |
+| 64 | mcd-mood-palette | Le**********IR | 12 |
+| 66 | mcd-profile | de*****21 | 11 |
+| 66 | McReadme-Card | co******ee | 11 |
+| 66 | mcd-memory-can | Ma******90 | 11 |
 | 69 | mcd-persona-card | Yo****25 | 10 |
 | 69 | mcd-commit-fuel | by**nx | 10 |
 | 69 | mcd-calorie-calculator | El*****aw | 10 |
