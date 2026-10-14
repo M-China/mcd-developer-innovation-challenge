@@ -1,6 +1,6 @@
 # 麦当劳程序员创意开发大赛排行榜
 
-更新时间：2026-10-15 06:00:41
+更新时间：2026-10-15 07:00:43
 
 | 名次 | 项目名称 | Owner 昵称 | Star 数 |
 |---:|---|---|---:|
@@ -10,9 +10,9 @@
 | 4 | mccarbon | 麦* | 206 |
 | 5 | mcd-saver-strategist | hu**un | 205 |
 | 6 | mcd-budget-meal | Sa*******ot | 175 |
-| 7 | McLife-Desk | Ni***-w | 151 |
+| 7 | McLife-Desk | Ni***-w | 152 |
 | 8 | mcd-calorie-butler | Wi*********ck | 149 |
-| 9 | MM-helper | si*************ep | 136 |
+| 9 | MM-helper | si*************ep | 138 |
 | 10 | mcd-wrapped | lv*****ng | 128 |
 | 11 | meal-puzzle | ju*****un | 112 |
 | 12 | mcd-hui-life | cc************tm | 111 |
@@ -33,16 +33,16 @@
 | 27 | mcd-fortune | zm************ud | 32 |
 | 28 | mcd-auto-coupon | od****24 | 31 |
 | 29 | mcd-breakfast-variety | To********ei | 30 |
+| 30 | mcd-receipt-persona | Ed******0Z | 29 |
 | 30 | mcd-cn-assistant | ju************er | 29 |
-| 31 | mcd-receipt-persona | Ed******0Z | 28 |
-| 31 | mcd-best-deal | lz********wq | 28 |
+| 32 | mcd-best-deal | lz********wq | 28 |
 | 33 | mcd-solver | ft***wf | 27 |
 | 33 | mcd-omni-assistant | Le*******77 | 27 |
 | 33 | mcd-fries-architect | yu*********ng | 27 |
 | 36 | mcd-mate | ri***ly | 26 |
+| 37 | mcd-terminal | Zh*******mo | 25 |
 | 37 | m-type | sh****ab | 25 |
-| 38 | mcd-terminal | Zh*******mo | 23 |
-| 38 | mcd-persona-card | Yo****25 | 23 |
+| 39 | mcd-persona-card | Yo****25 | 23 |
 | 40 | mcd-calorie-budget-skill | cy******us | 22 |
 | 40 | mcd-no-pickle | mo********an | 22 |
 | 40 | mcd-craving-coach | ke******su | 22 |
@@ -66,12 +66,12 @@
 | 56 | mcd-merch-intel | Le******27 | 16 |
 | 56 | mcd-experience-atlas | jo****37 | 16 |
 | 56 | mcd-collab-radar | xu*****ao | 16 |
-| 63 | mcd-grail-radar | mu**oc | 15 |
-| 63 | maimen-butler | 07*iu | 15 |
-| 63 | mcd-what-to-eat | yf**********er | 15 |
-| 63 | chilemai | He****nZ | 15 |
-| 63 | mcd-macro-strategist | ji******ue | 15 |
-| 63 | mcd-voice-order-assistant | 麦* | 15 |
+| 56 | mcd-macro-strategist | ji******ue | 16 |
+| 64 | mcd-grail-radar | mu**oc | 15 |
+| 64 | maimen-butler | 07*iu | 15 |
+| 64 | mcd-what-to-eat | yf**********er | 15 |
+| 64 | chilemai | He****nZ | 15 |
+| 64 | mcd-voice-order-assistant | 麦* | 15 |
 | 69 | McWander | Si*****o0 | 14 |
 | 69 | mcd-tablemate | yo********xi | 14 |
 | 69 | mcd-points-actuary | ak**in | 14 |
