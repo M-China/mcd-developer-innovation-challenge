@@ -1,6 +1,6 @@
 # 麦当劳程序员创意开发大赛排行榜
 
-更新时间：2026-10-15 00:00:55
+更新时间：2026-10-15 01:00:58
 
 | 名次 | 项目名称 | Owner 昵称 | Star 数 |
 |---:|---|---|---:|
@@ -8,11 +8,11 @@
 | 2 | McOracle | sp*******on | 266 |
 | 3 | mcd-party-officer | yz***26 | 235 |
 | 4 | mccarbon | 麦* | 206 |
-| 5 | mcd-saver-strategist | hu**un | 187 |
+| 5 | mcd-saver-strategist | hu**un | 190 |
 | 6 | mcd-budget-meal | Sa*******ot | 175 |
 | 7 | mcd-calorie-butler | Wi*********ck | 149 |
-| 8 | McLife-Desk | Ni***-w | 142 |
-| 9 | MM-helper | si*************ep | 128 |
+| 8 | McLife-Desk | Ni***-w | 144 |
+| 9 | MM-helper | si*************ep | 131 |
 | 10 | mcd-wrapped | lv*****ng | 123 |
 | 11 | meal-puzzle | ju*****un | 112 |
 | 12 | mcd-hui-life | cc************tm | 111 |
@@ -50,10 +50,10 @@
 | 43 | maidada | li**************do | 21 |
 | 43 | mac-Buddy | i**4 | 21 |
 | 46 | mcd-budget-bite | Tt*Mc | 19 |
-| 47 | mcd-dex | de*****mo | 18 |
-| 47 | mcd-meal-butler | cw****26 | 18 |
-| 47 | mcd-points-vault | my******66 | 18 |
-| 47 | Mcdonalds-mbti | Tu****66 | 18 |
+| 46 | mcd-dex | de*****mo | 19 |
+| 48 | mcd-meal-butler | cw****26 | 18 |
+| 48 | mcd-points-vault | my******66 | 18 |
+| 48 | Mcdonalds-mbti | Tu****66 | 18 |
 | 51 | mcd-commit-fuel | by**nx | 17 |
 | 51 | mcd-save-master | ya***oo | 17 |
 | 51 | mcd-cart-optimizer | du******32 | 17 |
@@ -63,15 +63,15 @@
 | 55 | mcd-100kcal | sh*****ry | 16 |
 | 55 | mcd-party-scout | fa********02 | 16 |
 | 55 | mcd-merch-intel | Le******27 | 16 |
+| 55 | maimen-calendar | Wh****53 | 16 |
 | 55 | mcd-experience-atlas | jo****37 | 16 |
 | 55 | mcd-collab-radar | xu*****ao | 16 |
-| 62 | mcd-grail-radar | mu**oc | 15 |
-| 62 | maimen-butler | 07*iu | 15 |
-| 62 | maimen-calendar | Wh****53 | 15 |
-| 62 | mcd-what-to-eat | yf**********er | 15 |
-| 62 | chilemai | He****nZ | 15 |
-| 62 | mcd-macro-strategist | ji******ue | 15 |
-| 62 | mcd-voice-order-assistant | 麦* | 15 |
+| 63 | mcd-grail-radar | mu**oc | 15 |
+| 63 | maimen-butler | 07*iu | 15 |
+| 63 | mcd-what-to-eat | yf**********er | 15 |
+| 63 | chilemai | He****nZ | 15 |
+| 63 | mcd-macro-strategist | ji******ue | 15 |
+| 63 | mcd-voice-order-assistant | 麦* | 15 |
 | 69 | McWander | Si*****o0 | 14 |
 | 69 | mcd-tablemate | yo********xi | 14 |
 | 69 | mcd-points-actuary | ak**in | 14 |
