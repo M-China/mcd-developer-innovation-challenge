@@ -1,6 +1,6 @@
 # 麦当劳程序员创意开发大赛排行榜
 
-更新时间：2026-10-15 05:00:43
+更新时间：2026-10-15 06:00:41
 
 | 名次 | 项目名称 | Owner 昵称 | Star 数 |
 |---:|---|---|---:|
@@ -10,9 +10,9 @@
 | 4 | mccarbon | 麦* | 206 |
 | 5 | mcd-saver-strategist | hu**un | 205 |
 | 6 | mcd-budget-meal | Sa*******ot | 175 |
-| 7 | mcd-calorie-butler | Wi*********ck | 149 |
-| 8 | McLife-Desk | Ni***-w | 148 |
-| 9 | MM-helper | si*************ep | 134 |
+| 7 | McLife-Desk | Ni***-w | 151 |
+| 8 | mcd-calorie-butler | Wi*********ck | 149 |
+| 9 | MM-helper | si*************ep | 136 |
 | 10 | mcd-wrapped | lv*****ng | 128 |
 | 11 | meal-puzzle | ju*****un | 112 |
 | 12 | mcd-hui-life | cc************tm | 111 |
@@ -23,7 +23,7 @@
 | 17 | mcd-1024-skill | 麦* | 65 |
 | 18 | McOptima | YO**XX | 55 |
 | 19 | mcd-china-map | Ja*****CN | 44 |
-| 20 | mcd-chill | yh**zl | 41 |
+| 20 | mcd-chill | yh**zl | 42 |
 | 21 | mcd-mbti | xi********en | 37 |
 | 22 | mcd-agent-gourmet | po*********rt | 35 |
 | 22 | mcd-order-calories | Br****id | 35 |
@@ -37,9 +37,9 @@
 | 31 | mcd-receipt-persona | Ed******0Z | 28 |
 | 31 | mcd-best-deal | lz********wq | 28 |
 | 33 | mcd-solver | ft***wf | 27 |
+| 33 | mcd-omni-assistant | Le*******77 | 27 |
 | 33 | mcd-fries-architect | yu*********ng | 27 |
-| 35 | mcd-omni-assistant | Le*******77 | 26 |
-| 35 | mcd-mate | ri***ly | 26 |
+| 36 | mcd-mate | ri***ly | 26 |
 | 37 | m-type | sh****ab | 25 |
 | 38 | mcd-terminal | Zh*******mo | 23 |
 | 38 | mcd-persona-card | Yo****25 | 23 |
@@ -50,10 +50,10 @@
 | 44 | mcd-party-buddy | Ne***93 | 20 |
 | 45 | mcd-budget-bite | Tt*Mc | 19 |
 | 45 | mcd-dex | de*****mo | 19 |
-| 47 | maimen-calendar | Wh****53 | 18 |
-| 47 | mcd-meal-butler | cw****26 | 18 |
-| 47 | mcd-points-vault | my******66 | 18 |
-| 47 | Mcdonalds-mbti | Tu****66 | 18 |
+| 45 | maimen-calendar | Wh****53 | 19 |
+| 45 | mcd-meal-butler | cw****26 | 19 |
+| 49 | mcd-points-vault | my******66 | 18 |
+| 49 | Mcdonalds-mbti | Tu****66 | 18 |
 | 51 | mcd-commit-fuel | by**nx | 17 |
 | 51 | mac-Buddy | i**4 | 17 |
 | 51 | mcd-save-master | ya***oo | 17 |
