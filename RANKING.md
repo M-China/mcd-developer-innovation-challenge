@@ -1,29 +1,29 @@
 # 麦当劳程序员创意开发大赛排行榜
 
-更新时间：2026-10-16 02:00:50
+更新时间：2026-10-16 03:00:50
 
 | 名次 | 项目名称 | Owner 昵称 | Star 数 |
 |---:|---|---|---:|
 | 1 | mcd-coupon-strategist | Ay****23 | 342 |
-| 2 | McOracle | sp*******on | 305 |
-| 3 | mcd-party-officer | yz***26 | 244 |
-| 4 | mccarbon | 麦* | 238 |
-| 5 | mcd-saver-strategist | hu**un | 236 |
-| 5 | mcd-budget-meal | Sa*******ot | 236 |
-| 7 | McLife-Desk | Ni***-w | 204 |
-| 8 | mcd-wrapped | lv*****ng | 157 |
-| 9 | mcd-calorie-butler | Wi*********ck | 149 |
-| 9 | maimen-certification | ch*****ao | 149 |
-| 11 | meal-puzzle | ju*****un | 114 |
+| 2 | McOracle | sp*******on | 306 |
+| 3 | mcd-saver-strategist | hu**un | 302 |
+| 4 | mccarbon | 麦* | 248 |
+| 5 | mcd-party-officer | yz***26 | 244 |
+| 6 | mcd-budget-meal | Sa*******ot | 240 |
+| 7 | McLife-Desk | Ni***-w | 205 |
+| 8 | mcd-wrapped | lv*****ng | 163 |
+| 9 | maimen-certification | ch*****ao | 150 |
+| 10 | mcd-calorie-butler | Wi*********ck | 149 |
+| 11 | meal-puzzle | ju*****un | 115 |
 | 12 | mcd-hui-life | cc************tm | 112 |
 | 13 | MM-helper | si*************ep | 84 |
 | 14 | mcd-git | zh******me | 83 |
 | 15 | mcd-1024-skill | 麦* | 80 |
 | 15 | maimai-fun-orderer | Fu****ng | 80 |
+| 17 | mcd-party-scout | fa********02 | 73 |
 | 17 | mcd-event-radar | Za*****iu | 73 |
-| 18 | mcd-party-scout | fa********02 | 67 |
-| 19 | McOptima | YO**XX | 55 |
-| 20 | mcd-strategist | ze**xz | 52 |
+| 19 | mcd-strategist | ze**xz | 61 |
+| 20 | McOptima | YO**XX | 55 |
 | 21 | mcd-chill | yh**zl | 44 |
 | 22 | mcdinner-mate | jk*****ii | 42 |
 | 22 | mcd-cn-assistant | ju************er | 42 |
@@ -82,25 +82,25 @@
 | 72 | m-type | sh****ab | 14 |
 | 72 | mcd-mcvoice | Ca*****-Y | 14 |
 | 72 | mcd-craving-coach | ke******su | 14 |
+| 79 | maimai-restaurant-huiyan | No********ss | 13 |
 | 79 | mcd-easy-order | wa******i2 | 13 |
 | 79 | mcfit-agent | 22******09 | 13 |
 | 79 | mcd-social-to-meal | je**************vg | 13 |
 | 79 | mcd-group-order | zx****ne | 13 |
 | 79 | mcd-fit-planner | to***in | 13 |
-| 84 | mcd-organizer-hub | Th*********96 | 12 |
-| 84 | mcd-skill | Mi********53 | 12 |
-| 86 | mcd-life-report | 麦* | 11 |
-| 86 | mcd-smartpick | PL**08 | 11 |
-| 86 | mcd-baby-bite | Ji**en | 11 |
-| 86 | mcd-profile | de*****21 | 11 |
-| 86 | mcd-no-pickle | mo********an | 11 |
-| 86 | McReadme-Card | co******ee | 11 |
-| 86 | mcd-order-butler | ta**id | 11 |
-| 93 | maimai-restaurant-huiyan | No********ss | 10 |
-| 93 | mcd-calorie-calculator | El*****aw | 10 |
-| 93 | mcd-rogue | la***********th | 10 |
-| 93 | mcd-solo-meal | am******de | 10 |
-| 93 | mcd-skill | do******an | 10 |
-| 93 | lunch-surprise-box | Mi*********op | 10 |
-| 93 | mcd-butler | li**re | 10 |
-| 93 | maimai-saver | yu******le | 10 |
+| 85 | mcd-organizer-hub | Th*********96 | 12 |
+| 85 | mcd-skill | Mi********53 | 12 |
+| 87 | mcd-life-report | 麦* | 11 |
+| 87 | mcd-smartpick | PL**08 | 11 |
+| 87 | mcd-baby-bite | Ji**en | 11 |
+| 87 | mcd-profile | de*****21 | 11 |
+| 87 | mcd-no-pickle | mo********an | 11 |
+| 87 | McReadme-Card | co******ee | 11 |
+| 87 | mcd-order-butler | ta**id | 11 |
+| 94 | mcd-calorie-calculator | El*****aw | 10 |
+| 94 | mcd-rogue | la***********th | 10 |
+| 94 | mcd-solo-meal | am******de | 10 |
+| 94 | mcd-skill | do******an | 10 |
+| 94 | lunch-surprise-box | Mi*********op | 10 |
+| 94 | mcd-butler | li**re | 10 |
+| 94 | maimai-saver | yu******le | 10 |
