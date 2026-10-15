@@ -1,28 +1,28 @@
 # 麦当劳程序员创意开发大赛排行榜
 
-更新时间：2026-10-16 06:00:48
+更新时间：2026-10-16 07:00:47
 
 | 名次 | 项目名称 | Owner 昵称 | Star 数 |
 |---:|---|---|---:|
-| 1 | mcd-saver-strategist | hu**un | 420 |
+| 1 | mcd-saver-strategist | hu**un | 433 |
 | 2 | mcd-coupon-strategist | Ay****23 | 342 |
 | 3 | McOracle | sp*******on | 308 |
-| 4 | mccarbon | 麦* | 258 |
+| 4 | mccarbon | 麦* | 261 |
 | 5 | mcd-party-officer | yz***26 | 244 |
-| 6 | mcd-budget-meal | Sa*******ot | 242 |
-| 7 | McLife-Desk | Ni***-w | 215 |
-| 8 | mcd-wrapped | lv*****ng | 170 |
+| 6 | mcd-budget-meal | Sa*******ot | 243 |
+| 7 | McLife-Desk | Ni***-w | 218 |
+| 8 | mcd-wrapped | lv*****ng | 172 |
 | 9 | maimen-certification | ch*****ao | 154 |
 | 10 | mcd-calorie-butler | Wi*********ck | 149 |
 | 11 | meal-puzzle | ju*****un | 115 |
 | 12 | mcd-hui-life | cc************tm | 112 |
 | 13 | MM-helper | si*************ep | 84 |
 | 14 | mcd-git | zh******me | 83 |
-| 15 | mcd-1024-skill | 麦* | 80 |
-| 15 | maimai-fun-orderer | Fu****ng | 80 |
-| 17 | mcd-party-scout | fa********02 | 79 |
-| 18 | mcd-event-radar | Za*****iu | 73 |
-| 19 | mcd-strategist | ze**xz | 71 |
+| 14 | mcd-party-scout | fa********02 | 83 |
+| 16 | mcd-1024-skill | 麦* | 81 |
+| 17 | maimai-fun-orderer | Fu****ng | 80 |
+| 18 | mcd-strategist | ze**xz | 75 |
+| 19 | mcd-event-radar | Za*****iu | 73 |
 | 20 | McOptima | YO**XX | 55 |
 | 21 | mcd-chill | yh**zl | 44 |
 | 22 | mcdinner-mate | jk*****ii | 43 |
