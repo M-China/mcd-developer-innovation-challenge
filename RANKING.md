@@ -1,6 +1,6 @@
 # 麦当劳程序员创意开发大赛排行榜
 
-更新时间：2026-10-16 00:00:50
+更新时间：2026-10-16 01:00:48
 
 | 名次 | 项目名称 | Owner 昵称 | Star 数 |
 |---:|---|---|---:|
@@ -10,7 +10,7 @@
 | 4 | mcd-saver-strategist | hu**un | 236 |
 | 5 | mccarbon | 麦* | 235 |
 | 6 | mcd-budget-meal | Sa*******ot | 234 |
-| 7 | McLife-Desk | Ni***-w | 198 |
+| 7 | McLife-Desk | Ni***-w | 202 |
 | 8 | mcd-wrapped | lv*****ng | 157 |
 | 9 | mcd-calorie-butler | Wi*********ck | 149 |
 | 9 | maimen-certification | ch*****ao | 149 |
@@ -25,8 +25,8 @@
 | 19 | McOptima | YO**XX | 55 |
 | 20 | mcd-strategist | ze**xz | 51 |
 | 21 | mcd-chill | yh**zl | 44 |
+| 22 | mcdinner-mate | jk*****ii | 42 |
 | 22 | mcd-cn-assistant | ju************er | 42 |
-| 23 | mcdinner-mate | jk*****ii | 41 |
 | 24 | mcd-order-calories | Br****id | 38 |
 | 24 | mcd-china-map | Ja*****CN | 38 |
 | 24 | mcd-mate | ri***ly | 38 |
@@ -34,9 +34,9 @@
 | 27 | mcperks-planner | qi******62 | 37 |
 | 27 | mcd-mbti | xi********en | 37 |
 | 30 | mcd-auto-coupon | od****24 | 36 |
+| 30 | mcd-receipt-persona | Ed******0Z | 36 |
 | 30 | mcd-agent-gourmet | po*********rt | 36 |
-| 32 | MCD-happy-meal | pa***85 | 34 |
-| 32 | mcd-receipt-persona | Ed******0Z | 34 |
+| 33 | MCD-happy-meal | pa***85 | 34 |
 | 34 | mcd-terminal | Zh*******mo | 32 |
 | 34 | mcd-fortune | zm************ud | 32 |
 | 36 | maidada | li**************do | 31 |
