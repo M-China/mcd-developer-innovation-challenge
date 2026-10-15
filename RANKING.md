@@ -1,6 +1,6 @@
 # 麦当劳程序员创意开发大赛排行榜
 
-更新时间：2026-10-15 23:00:54
+更新时间：2026-10-16 00:00:50
 
 | 名次 | 项目名称 | Owner 昵称 | Star 数 |
 |---:|---|---|---:|
@@ -8,22 +8,22 @@
 | 2 | McOracle | sp*******on | 305 |
 | 3 | mcd-party-officer | yz***26 | 244 |
 | 4 | mcd-saver-strategist | hu**un | 236 |
-| 5 | mccarbon | 麦* | 234 |
-| 6 | mcd-budget-meal | Sa*******ot | 231 |
-| 7 | McLife-Desk | Ni***-w | 196 |
+| 5 | mccarbon | 麦* | 235 |
+| 6 | mcd-budget-meal | Sa*******ot | 234 |
+| 7 | McLife-Desk | Ni***-w | 198 |
 | 8 | mcd-wrapped | lv*****ng | 157 |
 | 9 | mcd-calorie-butler | Wi*********ck | 149 |
-| 10 | maimen-certification | ch*****ao | 148 |
+| 9 | maimen-certification | ch*****ao | 149 |
 | 11 | meal-puzzle | ju*****un | 114 |
 | 12 | mcd-hui-life | cc************tm | 112 |
 | 13 | MM-helper | si*************ep | 84 |
 | 14 | mcd-git | zh******me | 83 |
 | 15 | maimai-fun-orderer | Fu****ng | 80 |
-| 16 | mcd-1024-skill | 麦* | 77 |
+| 16 | mcd-1024-skill | 麦* | 79 |
 | 17 | mcd-event-radar | Za*****iu | 73 |
-| 18 | mcd-party-scout | fa********02 | 64 |
+| 18 | mcd-party-scout | fa********02 | 66 |
 | 19 | McOptima | YO**XX | 55 |
-| 20 | mcd-strategist | ze**xz | 49 |
+| 20 | mcd-strategist | ze**xz | 51 |
 | 21 | mcd-chill | yh**zl | 44 |
 | 22 | mcd-cn-assistant | ju************er | 42 |
 | 23 | mcdinner-mate | jk*****ii | 41 |
@@ -34,14 +34,14 @@
 | 27 | mcperks-planner | qi******62 | 37 |
 | 27 | mcd-mbti | xi********en | 37 |
 | 30 | mcd-auto-coupon | od****24 | 36 |
-| 31 | mcd-agent-gourmet | po*********rt | 35 |
+| 30 | mcd-agent-gourmet | po*********rt | 36 |
 | 32 | MCD-happy-meal | pa***85 | 34 |
 | 32 | mcd-receipt-persona | Ed******0Z | 34 |
 | 34 | mcd-terminal | Zh*******mo | 32 |
 | 34 | mcd-fortune | zm************ud | 32 |
-| 36 | maidada | li**************do | 30 |
-| 36 | mcd-breakfast-variety | To********ei | 30 |
-| 36 | mcd-mcdrive-mate | yi********ng | 30 |
+| 36 | maidada | li**************do | 31 |
+| 37 | mcd-breakfast-variety | To********ei | 30 |
+| 37 | mcd-mcdrive-mate | yi********ng | 30 |
 | 39 | mcd-best-deal | lz********wq | 28 |
 | 40 | mcd-fries-architect | yu*********ng | 27 |
 | 41 | mcd-macro-strategist | ji******ue | 26 |
@@ -61,6 +61,7 @@
 | 55 | mcd-grail-radar | mu**oc | 17 |
 | 55 | mcd-points-actuary | ak**in | 17 |
 | 55 | mcd-save-master | ya***oo | 17 |
+| 58 | mcd-party-buddy | Ne***93 | 16 |
 | 58 | mcgacha | we*****90 | 16 |
 | 58 | mcd-activity-intel | Jo*********ub | 16 |
 | 58 | super-mcd-benefits-radar | co**n9 | 16 |
@@ -69,23 +70,22 @@
 | 58 | mcd-experience-atlas | jo****37 | 16 |
 | 58 | mcd-what-to-eat | yf**********er | 16 |
 | 58 | mcd-collab-radar | xu*****ao | 16 |
-| 66 | mcd-party-buddy | Ne***93 | 15 |
-| 66 | maimen-butler | 07*iu | 15 |
-| 66 | chilemai | He****nZ | 15 |
-| 66 | mcd-budget-skill | Li****nx | 15 |
-| 66 | mcd-voice-order-assistant | 麦* | 15 |
+| 67 | maimen-butler | 07*iu | 15 |
+| 67 | chilemai | He****nZ | 15 |
+| 67 | mcd-budget-skill | Li****nx | 15 |
+| 67 | mcd-voice-order-assistant | 麦* | 15 |
 | 71 | mcdetective | St***********ea | 14 |
 | 71 | maimen-calendar | Wh****53 | 14 |
 | 71 | mcd-tablemate | yo********xi | 14 |
 | 71 | mcd-meal-brain | 麦* | 14 |
+| 71 | mcd-mood-palette | Le**********IR | 14 |
 | 71 | m-type | sh****ab | 14 |
 | 71 | mcd-mcvoice | Ca*****-Y | 14 |
 | 71 | mcd-craving-coach | ke******su | 14 |
-| 78 | mcd-easy-order | wa******i2 | 13 |
-| 78 | mcfit-agent | 22******09 | 13 |
-| 78 | mcd-mood-palette | Le**********IR | 13 |
-| 78 | mcd-social-to-meal | je**************vg | 13 |
-| 78 | mcd-group-order | zx****ne | 13 |
+| 79 | mcd-easy-order | wa******i2 | 13 |
+| 79 | mcfit-agent | 22******09 | 13 |
+| 79 | mcd-social-to-meal | je**************vg | 13 |
+| 79 | mcd-group-order | zx****ne | 13 |
 | 83 | mcd-organizer-hub | Th*********96 | 12 |
 | 83 | mcd-skill | Mi********53 | 12 |
 | 85 | mcd-life-report | 麦* | 11 |
@@ -106,6 +106,7 @@
 | 100 | mcd-postmortem | kd**he | 9 |
 | 100 | mcd-pause | ka***yh | 9 |
 | 100 | mcd-health-buddy | Qi****07 | 9 |
+| 100 | mcd-buddy | ja************er | 9 |
 | 100 | mcd-a11y-counter | ya************ch | 9 |
 | 100 | mcd-budget-planner | AA**EE | 9 |
 | 100 | mcdindex | we******ui | 9 |
