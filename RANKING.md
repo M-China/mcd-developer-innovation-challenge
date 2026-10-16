@@ -1,18 +1,18 @@
 # 麦当劳程序员创意开发大赛排行榜
 
-更新时间：2026-10-16 22:00:53
+更新时间：2026-10-16 23:00:54
 
 | 名次 | 项目名称 | Owner 昵称 | Star 数 |
 |---:|---|---|---:|
 | 1 | mcd-saver-strategist | hu**un | 466 |
-| 2 | mcd-coupon-strategist | Ay****23 | 368 |
+| 2 | mcd-coupon-strategist | Ay****23 | 369 |
 | 3 | mccarbon | 麦* | 311 |
 | 4 | McOracle | sp*******on | 310 |
-| 5 | mcd-budget-meal | Sa*******ot | 276 |
+| 5 | mcd-budget-meal | Sa*******ot | 277 |
 | 6 | mcd-party-officer | yz***26 | 244 |
 | 7 | McLife-Desk | Ni***-w | 240 |
 | 8 | mcd-wrapped | lv*****ng | 196 |
-| 9 | maimen-certification | ch*****ao | 175 |
+| 9 | maimen-certification | ch*****ao | 176 |
 | 10 | mcd-calorie-butler | Wi*********ck | 149 |
 | 11 | meal-puzzle | ju*****un | 115 |
 | 12 | mcd-hui-life | cc************tm | 112 |
@@ -24,19 +24,19 @@
 | 18 | mcd-git | zh******me | 83 |
 | 19 | mcd-event-radar | Za*****iu | 73 |
 | 20 | McOptima | YO**XX | 55 |
-| 21 | mcdinner-mate | jk*****ii | 50 |
+| 21 | mcdinner-mate | jk*****ii | 52 |
+| 22 | mcd-terminal | Zh*******mo | 44 |
 | 22 | mcd-chill | yh**zl | 44 |
-| 23 | mcd-terminal | Zh*******mo | 43 |
-| 24 | mcd-undercover | ke**ee | 42 |
-| 24 | mcd-receipt-persona | Ed******0Z | 42 |
-| 24 | mcd-cn-assistant | ju************er | 42 |
+| 24 | mcd-receipt-persona | Ed******0Z | 43 |
+| 25 | mcd-undercover | ke**ee | 42 |
+| 25 | mcd-cn-assistant | ju************er | 42 |
 | 27 | mcd-omni-assistant | Le*******77 | 41 |
-| 28 | mcd-buddy | ja************er | 38 |
-| 28 | mcd-order-calories | Br****id | 38 |
-| 28 | mcd-china-map | Ja*****CN | 38 |
-| 28 | mcd-mate | ri***ly | 38 |
-| 32 | mcd-agent-gourmet | po*********rt | 37 |
-| 32 | mcd-mbti | xi********en | 37 |
+| 28 | mcd-china-map | Ja*****CN | 39 |
+| 29 | mcd-buddy | ja************er | 38 |
+| 29 | mcd-mbti | xi********en | 38 |
+| 29 | mcd-order-calories | Br****id | 38 |
+| 29 | mcd-mate | ri***ly | 38 |
+| 33 | mcd-agent-gourmet | po*********rt | 37 |
 | 34 | mai-suanpan | W3******91 | 36 |
 | 34 | mcd-auto-coupon | od****24 | 36 |
 | 34 | mcperks-planner | qi******62 | 36 |
@@ -87,20 +87,20 @@
 | 81 | mcdetective | St***********ea | 14 |
 | 81 | mcd-tablemate | yo********xi | 14 |
 | 81 | mcd-meal-brain | 麦* | 14 |
+| 81 | mcd-receipt-studio | le****-c | 14 |
 | 81 | m-type | sh****ab | 14 |
 | 81 | mcd-mcvoice | Ca*****-Y | 14 |
 | 81 | mcd-craving-coach | ke******su | 14 |
 | 81 | mcd-hackthon | Pl***uo | 14 |
-| 88 | maimai-restaurant-huiyan | No********ss | 13 |
-| 88 | mcd-organizer-hub | Th*********96 | 13 |
-| 88 | maimen-calendar | Wh****53 | 13 |
-| 88 | MealScript- | ko******77 | 13 |
-| 88 | mcd-easy-order | wa******i2 | 13 |
-| 88 | mcfit-agent | 22******09 | 13 |
-| 88 | mcd-receipt-studio | le****-c | 13 |
-| 88 | mcd-social-to-meal | je**************vg | 13 |
-| 88 | mcd-butler | li**re | 13 |
-| 88 | mcd-group-order | zx****ne | 13 |
-| 98 | mcd-baby-bite | Ji**en | 12 |
-| 98 | mcd-skill | Mi********53 | 12 |
-| 98 | mcd-value | pa****ir | 12 |
+| 89 | maimai-restaurant-huiyan | No********ss | 13 |
+| 89 | mcd-organizer-hub | Th*********96 | 13 |
+| 89 | maimen-calendar | Wh****53 | 13 |
+| 89 | MealScript- | ko******77 | 13 |
+| 89 | mcd-easy-order | wa******i2 | 13 |
+| 89 | mcfit-agent | 22******09 | 13 |
+| 89 | mcd-social-to-meal | je**************vg | 13 |
+| 89 | mcd-skill | Mi********53 | 13 |
+| 89 | mcd-butler | li**re | 13 |
+| 89 | mcd-group-order | zx****ne | 13 |
+| 99 | mcd-baby-bite | Ji**en | 12 |
+| 99 | mcd-value | pa****ir | 12 |
