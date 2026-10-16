@@ -1,18 +1,18 @@
 # 麦当劳程序员创意开发大赛排行榜
 
-更新时间：2026-10-17 04:00:48
+更新时间：2026-10-17 05:00:51
 
 | 名次 | 项目名称 | Owner 昵称 | Star 数 |
 |---:|---|---|---:|
 | 1 | mcd-saver-strategist | hu**un | 470 |
 | 2 | mcd-coupon-strategist | Ay****23 | 369 |
-| 3 | mccarbon | 麦* | 315 |
+| 3 | mccarbon | 麦* | 316 |
 | 4 | McOracle | sp*******on | 314 |
-| 5 | mcd-budget-meal | Sa*******ot | 292 |
+| 5 | mcd-budget-meal | Sa*******ot | 293 |
 | 6 | McLife-Desk | Ni***-w | 251 |
 | 7 | mcd-party-officer | yz***26 | 244 |
 | 8 | mcd-wrapped | lv*****ng | 211 |
-| 9 | maimen-certification | ch*****ao | 189 |
+| 9 | maimen-certification | ch*****ao | 196 |
 | 10 | mcd-calorie-butler | Wi*********ck | 149 |
 | 11 | meal-puzzle | ju*****un | 115 |
 | 12 | mcd-hui-life | cc************tm | 112 |
@@ -23,17 +23,17 @@
 | 17 | maimai-fun-orderer | Fu****ng | 86 |
 | 18 | mcd-git | zh******me | 83 |
 | 19 | mcd-event-radar | Za*****iu | 73 |
-| 20 | mcd-undercover | ke**ee | 63 |
+| 20 | mcd-undercover | ke**ee | 66 |
 | 21 | McOptima | YO**XX | 55 |
 | 22 | mcdinner-mate | jk*****ii | 54 |
-| 23 | mcd-party-planner | zc***xc | 47 |
+| 23 | mcd-party-planner | zc***xc | 51 |
 | 24 | mcd-terminal | Zh*******mo | 46 |
 | 25 | mcd-omni-assistant | Le*******77 | 44 |
+| 25 | mcd-receipt-persona | Ed******0Z | 44 |
 | 25 | mcd-chill | yh**zl | 44 |
-| 27 | mcd-receipt-persona | Ed******0Z | 43 |
 | 28 | mcd-auto-coupon | od****24 | 42 |
 | 28 | mcd-cn-assistant | ju************er | 42 |
-| 30 | mcpet | so*******************gn | 41 |
+| 28 | mcpet | so*******************gn | 42 |
 | 31 | mcd-buddy | ja************er | 39 |
 | 31 | mcd-china-map | Ja*****CN | 39 |
 | 33 | mcd-mbti | xi********en | 38 |
