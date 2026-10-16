@@ -1,31 +1,31 @@
 # 麦当劳程序员创意开发大赛排行榜
 
-更新时间：2026-10-16 07:00:47
+更新时间：2026-10-16 08:00:47
 
 | 名次 | 项目名称 | Owner 昵称 | Star 数 |
 |---:|---|---|---:|
-| 1 | mcd-saver-strategist | hu**un | 433 |
+| 1 | mcd-saver-strategist | hu**un | 447 |
 | 2 | mcd-coupon-strategist | Ay****23 | 342 |
 | 3 | McOracle | sp*******on | 308 |
-| 4 | mccarbon | 麦* | 261 |
-| 5 | mcd-party-officer | yz***26 | 244 |
-| 6 | mcd-budget-meal | Sa*******ot | 243 |
-| 7 | McLife-Desk | Ni***-w | 218 |
-| 8 | mcd-wrapped | lv*****ng | 172 |
-| 9 | maimen-certification | ch*****ao | 154 |
+| 4 | mccarbon | 麦* | 264 |
+| 5 | mcd-budget-meal | Sa*******ot | 245 |
+| 6 | mcd-party-officer | yz***26 | 244 |
+| 7 | McLife-Desk | Ni***-w | 220 |
+| 8 | mcd-wrapped | lv*****ng | 175 |
+| 9 | maimen-certification | ch*****ao | 157 |
 | 10 | mcd-calorie-butler | Wi*********ck | 149 |
 | 11 | meal-puzzle | ju*****un | 115 |
 | 12 | mcd-hui-life | cc************tm | 112 |
+| 13 | mcd-party-scout | fa********02 | 84 |
 | 13 | MM-helper | si*************ep | 84 |
-| 14 | mcd-git | zh******me | 83 |
-| 14 | mcd-party-scout | fa********02 | 83 |
+| 15 | mcd-git | zh******me | 83 |
 | 16 | mcd-1024-skill | 麦* | 81 |
 | 17 | maimai-fun-orderer | Fu****ng | 80 |
-| 18 | mcd-strategist | ze**xz | 75 |
+| 18 | mcd-strategist | ze**xz | 77 |
 | 19 | mcd-event-radar | Za*****iu | 73 |
 | 20 | McOptima | YO**XX | 55 |
+| 21 | mcdinner-mate | jk*****ii | 44 |
 | 21 | mcd-chill | yh**zl | 44 |
-| 22 | mcdinner-mate | jk*****ii | 43 |
 | 23 | mcd-cn-assistant | ju************er | 42 |
 | 24 | mcd-order-calories | Br****id | 38 |
 | 24 | mcd-china-map | Ja*****CN | 38 |
@@ -97,11 +97,12 @@
 | 87 | mcd-profile | de*****21 | 11 |
 | 87 | mcd-no-pickle | mo********an | 11 |
 | 87 | McReadme-Card | co******ee | 11 |
+| 87 | mcd-butler | li**re | 11 |
 | 87 | mcd-order-butler | ta**id | 11 |
-| 95 | mcd-calorie-calculator | El*****aw | 10 |
-| 95 | mcd-rogue | la***********th | 10 |
-| 95 | mcd-solo-meal | am******de | 10 |
-| 95 | mcd-skill | do******an | 10 |
-| 95 | lunch-surprise-box | Mi*********op | 10 |
-| 95 | mcd-butler | li**re | 10 |
-| 95 | maimai-saver | yu******le | 10 |
+| 96 | mcd-calorie-calculator | El*****aw | 10 |
+| 96 | mcd-rogue | la***********th | 10 |
+| 96 | mcd-solo-meal | am******de | 10 |
+| 96 | mcd-skill | do******an | 10 |
+| 96 | lunch-surprise-box | Mi*********op | 10 |
+| 96 | mcd-hackthon | Pl***uo | 10 |
+| 96 | maimai-saver | yu******le | 10 |
