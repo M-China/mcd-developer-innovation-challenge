@@ -1,16 +1,16 @@
 # 麦当劳程序员创意开发大赛排行榜
 
-更新时间：2026-10-18 01:00:47
+更新时间：2026-10-18 02:00:45
 
 | 名次 | 项目名称 | Owner 昵称 | Star 数 |
 |---:|---|---|---:|
-| 1 | mcd-saver-strategist | hu**un | 491 |
-| 2 | mcd-coupon-strategist | Ay****23 | 406 |
+| 1 | mcd-saver-strategist | hu**un | 496 |
+| 2 | mcd-coupon-strategist | Ay****23 | 414 |
 | 3 | mcd-budget-meal | Sa*******ot | 380 |
 | 4 | mccarbon | 麦* | 354 |
 | 5 | McOracle | sp*******on | 320 |
-| 6 | McLife-Desk | Ni***-w | 273 |
-| 7 | maimen-certification | ch*****ao | 262 |
+| 6 | McLife-Desk | Ni***-w | 274 |
+| 7 | maimen-certification | ch*****ao | 265 |
 | 8 | mcd-party-officer | yz***26 | 244 |
 | 9 | mcd-wrapped | lv*****ng | 211 |
 | 10 | mcd-calorie-butler | Wi*********ck | 149 |
@@ -23,29 +23,29 @@
 | 17 | mcd-1024-skill | 麦* | 102 |
 | 18 | mcd-party-scout | fa********02 | 101 |
 | 19 | maimai-fun-orderer | Fu****ng | 93 |
-| 20 | mcd-git | zh******me | 83 |
-| 21 | mcpet | so*******************gn | 82 |
+| 20 | mcpet | so*******************gn | 84 |
+| 21 | mcd-git | zh******me | 83 |
 | 22 | mcd-event-radar | Za*****iu | 73 |
 | 23 | mcd-budget-planner | AA**EE | 70 |
-| 24 | mcd-buddy | ja************er | 59 |
-| 25 | mcdinner-mate | jk*****ii | 57 |
-| 26 | mcd-terminal | Zh*******mo | 56 |
-| 27 | McOptima | YO**XX | 55 |
-| 28 | mcd-receipt-persona | Ed******0Z | 54 |
-| 29 | mcd-omni-assistant | Le*******77 | 50 |
-| 30 | mcd-optimizer | li***********68 | 48 |
-| 31 | mcd-cn-assistant | ju************er | 47 |
+| 24 | mcd-buddy | ja************er | 60 |
+| 25 | mcd-cn-assistant | ju************er | 58 |
+| 26 | mcdinner-mate | jk*****ii | 57 |
+| 27 | mcd-terminal | Zh*******mo | 56 |
+| 28 | McOptima | YO**XX | 55 |
+| 29 | mcd-receipt-persona | Ed******0Z | 54 |
+| 30 | mcd-omni-assistant | Le*******77 | 50 |
+| 31 | mcd-optimizer | li***********68 | 49 |
 | 32 | mcd-chill | yh**zl | 45 |
-| 33 | mai-suanpan | W3******91 | 43 |
-| 34 | mcd-auto-coupon | od****24 | 42 |
-| 35 | mcparallel | qq******tu | 41 |
+| 33 | mcparallel | qq******tu | 44 |
+| 34 | mai-suanpan | W3******91 | 43 |
+| 35 | mcd-auto-coupon | od****24 | 42 |
 | 36 | maidada | li**************do | 39 |
 | 36 | mcd-china-map | Ja*****CN | 39 |
+| 38 | buy-me-a-big-mac | Ka*****iu | 38 |
 | 38 | mcd-mbti | xi********en | 38 |
 | 38 | mcd-order-calories | Br****id | 38 |
 | 38 | mcd-mate | ri***ly | 38 |
-| 41 | mcd-agent-gourmet | po*********rt | 37 |
-| 41 | buy-me-a-big-mac | Ka*****iu | 37 |
+| 42 | mcd-agent-gourmet | po*********rt | 37 |
 | 43 | mcperks-planner | qi******62 | 36 |
 | 44 | MCD-happy-meal | pa***85 | 34 |
 | 45 | mcd-compass | ma********28 | 32 |
@@ -68,13 +68,13 @@
 | 61 | mcd-dex | de*****mo | 21 |
 | 63 | McWander | Si*****o0 | 20 |
 | 63 | mcd-party-buddy | Ne***93 | 20 |
+| 63 | MealScript- | ko******77 | 20 |
 | 63 | mcd-meal-butler | cw****26 | 20 |
 | 63 | mc-points-steward | yu****ai | 20 |
-| 67 | mcd-budget-bite | Tt*Mc | 19 |
-| 67 | mcd-commit-fuel | by**nx | 19 |
-| 67 | MealScript- | ko******77 | 19 |
-| 67 | mcd-what-to-eat | yf**********er | 19 |
-| 67 | mcd-cart-optimizer | du******32 | 19 |
+| 68 | mcd-budget-bite | Tt*Mc | 19 |
+| 68 | mcd-commit-fuel | by**nx | 19 |
+| 68 | mcd-what-to-eat | yf**********er | 19 |
+| 68 | mcd-cart-optimizer | du******32 | 19 |
 | 72 | mcd-points-vault | my******66 | 18 |
 | 72 | McArena | Do*****hn | 18 |
 | 72 | Mcdonalds-mbti | Tu****66 | 18 |
@@ -88,15 +88,15 @@
 | 80 | mcd-100kcal | sh*****ry | 16 |
 | 80 | mcd-merch-intel | Le******27 | 16 |
 | 80 | mcd-experience-atlas | jo****37 | 16 |
+| 80 | mcctl | hu*********27 | 16 |
 | 80 | mcd-order-butler | ta**id | 16 |
 | 80 | mcd-collab-radar | xu*****ao | 16 |
-| 87 | maimen-butler | 07*iu | 15 |
-| 87 | mcctl | hu*********27 | 15 |
-| 87 | chilemai | He****nZ | 15 |
-| 87 | mcd-butler | li**re | 15 |
-| 87 | mcd-budget-skill | Li****nx | 15 |
-| 87 | mcd-hackthon | Pl***uo | 15 |
-| 87 | mcd-voice-order-assistant | 麦* | 15 |
+| 88 | maimen-butler | 07*iu | 15 |
+| 88 | chilemai | He****nZ | 15 |
+| 88 | mcd-butler | li**re | 15 |
+| 88 | mcd-budget-skill | Li****nx | 15 |
+| 88 | mcd-hackthon | Pl***uo | 15 |
+| 88 | mcd-voice-order-assistant | 麦* | 15 |
 | 94 | maimen-calendar | Wh****53 | 14 |
 | 94 | mcd-tablemate | yo********xi | 14 |
 | 94 | mcd-meal-brain | 麦* | 14 |
