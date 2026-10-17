@@ -1,39 +1,39 @@
 # 麦当劳程序员创意开发大赛排行榜
 
-更新时间：2026-10-18 06:00:47
+更新时间：2026-10-18 07:00:47
 
 | 名次 | 项目名称 | Owner 昵称 | Star 数 |
 |---:|---|---|---:|
-| 1 | mcd-saver-strategist | hu**un | 521 |
-| 2 | mcd-coupon-strategist | Ay****23 | 444 |
-| 3 | mcd-budget-meal | Sa*******ot | 387 |
-| 4 | mccarbon | 麦* | 365 |
+| 1 | mcd-saver-strategist | hu**un | 522 |
+| 2 | mcd-coupon-strategist | Ay****23 | 445 |
+| 3 | mcd-budget-meal | Sa*******ot | 388 |
+| 4 | mccarbon | 麦* | 371 |
 | 5 | McOracle | sp*******on | 320 |
-| 6 | maimen-certification | ch*****ao | 295 |
+| 6 | maimen-certification | ch*****ao | 298 |
 | 7 | McLife-Desk | Ni***-w | 278 |
 | 8 | mcd-party-officer | yz***26 | 244 |
 | 9 | mcd-wrapped | lv*****ng | 211 |
-| 10 | mcd-party-planner | zc***xc | 153 |
+| 10 | mcd-party-planner | zc***xc | 156 |
 | 11 | mcd-calorie-butler | Wi*********ck | 149 |
 | 12 | meal-puzzle | ju*****un | 115 |
 | 13 | mcd-hui-life | cc************tm | 112 |
 | 14 | mcd-undercover | ke**ee | 110 |
 | 15 | MM-helper | si*************ep | 107 |
 | 16 | mcd-1024-skill | 麦* | 105 |
+| 17 | mcpet | so*******************gn | 104 |
 | 17 | mcd-strategist | ze**xz | 104 |
-| 18 | mcd-party-scout | fa********02 | 102 |
-| 19 | mcpet | so*******************gn | 98 |
+| 19 | mcd-party-scout | fa********02 | 102 |
 | 20 | maimai-fun-orderer | Fu****ng | 93 |
 | 21 | mcd-git | zh******me | 83 |
-| 22 | mcd-budget-planner | AA**EE | 82 |
-| 23 | mcd-optimizer | li***********68 | 77 |
+| 21 | mcd-budget-planner | AA**EE | 83 |
+| 23 | mcd-optimizer | li***********68 | 82 |
 | 24 | mcd-event-radar | Za*****iu | 73 |
-| 25 | mcd-buddy | ja************er | 61 |
-| 25 | mcparallel | qq******tu | 61 |
-| 27 | mcdinner-mate | jk*****ii | 58 |
-| 27 | mcd-cn-assistant | ju************er | 58 |
-| 29 | mcd-terminal | Zh*******mo | 57 |
-| 29 | mcd-receipt-persona | Ed******0Z | 57 |
+| 25 | mcparallel | qq******tu | 63 |
+| 26 | mcd-buddy | ja************er | 61 |
+| 27 | mcdinner-mate | jk*****ii | 60 |
+| 28 | mcd-receipt-persona | Ed******0Z | 58 |
+| 28 | mcd-cn-assistant | ju************er | 58 |
+| 30 | mcd-terminal | Zh*******mo | 57 |
 | 31 | McOptima | YO**XX | 55 |
 | 32 | mcd-omni-assistant | Le*******77 | 50 |
 | 33 | mcd-chill | yh**zl | 45 |
