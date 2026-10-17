@@ -1,40 +1,40 @@
 # 麦当劳程序员创意开发大赛排行榜
 
-更新时间：2026-10-17 08:00:47
+更新时间：2026-10-17 09:00:47
 
 | 名次 | 项目名称 | Owner 昵称 | Star 数 |
 |---:|---|---|---:|
 | 1 | mcd-saver-strategist | hu**un | 470 |
 | 2 | mcd-coupon-strategist | Ay****23 | 369 |
 | 3 | mccarbon | 麦* | 331 |
-| 4 | McOracle | sp*******on | 316 |
-| 5 | mcd-budget-meal | Sa*******ot | 297 |
+| 4 | McOracle | sp*******on | 317 |
+| 5 | mcd-budget-meal | Sa*******ot | 302 |
 | 6 | McLife-Desk | Ni***-w | 253 |
 | 7 | mcd-party-officer | yz***26 | 244 |
-| 8 | maimen-certification | ch*****ao | 211 |
-| 8 | mcd-wrapped | lv*****ng | 211 |
+| 8 | maimen-certification | ch*****ao | 216 |
+| 9 | mcd-wrapped | lv*****ng | 211 |
 | 10 | mcd-calorie-butler | Wi*********ck | 149 |
 | 11 | meal-puzzle | ju*****un | 115 |
 | 12 | mcd-hui-life | cc************tm | 112 |
 | 13 | mcd-strategist | ze**xz | 101 |
 | 14 | mcd-party-scout | fa********02 | 100 |
-| 15 | MM-helper | si*************ep | 94 |
+| 15 | MM-helper | si*************ep | 95 |
 | 16 | mcd-1024-skill | 麦* | 89 |
-| 17 | maimai-fun-orderer | Fu****ng | 86 |
+| 17 | maimai-fun-orderer | Fu****ng | 87 |
 | 18 | mcd-git | zh******me | 83 |
 | 19 | mcd-undercover | ke**ee | 81 |
 | 20 | mcd-event-radar | Za*****iu | 73 |
-| 21 | mcd-party-planner | zc***xc | 60 |
+| 21 | mcd-party-planner | zc***xc | 62 |
 | 22 | mcdinner-mate | jk*****ii | 55 |
 | 22 | McOptima | YO**XX | 55 |
 | 24 | mcd-terminal | Zh*******mo | 48 |
-| 25 | mcd-omni-assistant | Le*******77 | 45 |
-| 25 | mcd-receipt-persona | Ed******0Z | 45 |
-| 25 | mcpet | so*******************gn | 45 |
+| 25 | mcpet | so*******************gn | 46 |
+| 26 | mcd-omni-assistant | Le*******77 | 45 |
+| 26 | mcd-receipt-persona | Ed******0Z | 45 |
 | 28 | mcd-chill | yh**zl | 44 |
 | 29 | mcd-auto-coupon | od****24 | 42 |
+| 29 | mcd-buddy | ja************er | 42 |
 | 29 | mcd-cn-assistant | ju************er | 42 |
-| 31 | mcd-buddy | ja************er | 41 |
 | 32 | mcd-china-map | Ja*****CN | 39 |
 | 33 | mcd-mbti | xi********en | 38 |
 | 33 | mcd-order-calories | Br****id | 38 |
@@ -56,13 +56,13 @@
 | 48 | mcd-chooser | Yo*****dx | 23 |
 | 48 | mcd-fit-planner | to***in | 23 |
 | 52 | mcd-calorie-budget-skill | cy******us | 22 |
-| 53 | mcd-life-report | 麦* | 21 |
-| 53 | mcd-compass | ma********28 | 21 |
-| 53 | mcd-dex | de*****mo | 21 |
-| 56 | McWander | Si*****o0 | 20 |
-| 56 | mcd-meal-butler | cw****26 | 20 |
-| 56 | mc-points-steward | yu****ai | 20 |
-| 56 | buy-me-a-big-mac | Ka*****iu | 20 |
+| 52 | buy-me-a-big-mac | Ka*****iu | 22 |
+| 54 | mcd-life-report | 麦* | 21 |
+| 54 | mcd-compass | ma********28 | 21 |
+| 54 | mcd-dex | de*****mo | 21 |
+| 57 | McWander | Si*****o0 | 20 |
+| 57 | mcd-meal-butler | cw****26 | 20 |
+| 57 | mc-points-steward | yu****ai | 20 |
 | 60 | mcd-budget-bite | Tt*Mc | 19 |
 | 60 | mcd-commit-fuel | by**nx | 19 |
 | 60 | MealScript- | ko******77 | 19 |
