@@ -1,6 +1,6 @@
 # 麦当劳程序员创意开发大赛排行榜
 
-更新时间：2026-10-17 10:00:47
+更新时间：2026-10-17 11:00:46
 
 | 名次 | 项目名称 | Owner 昵称 | Star 数 |
 |---:|---|---|---:|
@@ -8,31 +8,31 @@
 | 2 | mcd-coupon-strategist | Ay****23 | 369 |
 | 3 | mccarbon | 麦* | 333 |
 | 4 | McOracle | sp*******on | 317 |
-| 5 | mcd-budget-meal | Sa*******ot | 303 |
-| 6 | McLife-Desk | Ni***-w | 253 |
+| 5 | mcd-budget-meal | Sa*******ot | 304 |
+| 6 | McLife-Desk | Ni***-w | 255 |
 | 7 | mcd-party-officer | yz***26 | 244 |
-| 8 | maimen-certification | ch*****ao | 217 |
+| 8 | maimen-certification | ch*****ao | 218 |
 | 9 | mcd-wrapped | lv*****ng | 211 |
 | 10 | mcd-calorie-butler | Wi*********ck | 149 |
 | 11 | meal-puzzle | ju*****un | 115 |
 | 12 | mcd-hui-life | cc************tm | 112 |
 | 13 | mcd-strategist | ze**xz | 101 |
 | 14 | mcd-party-scout | fa********02 | 100 |
-| 15 | MM-helper | si*************ep | 96 |
+| 15 | MM-helper | si*************ep | 97 |
 | 16 | mcd-1024-skill | 麦* | 91 |
 | 17 | maimai-fun-orderer | Fu****ng | 87 |
 | 18 | mcd-git | zh******me | 83 |
 | 19 | mcd-undercover | ke**ee | 81 |
 | 20 | mcd-event-radar | Za*****iu | 73 |
-| 21 | mcd-party-planner | zc***xc | 65 |
+| 21 | mcd-party-planner | zc***xc | 68 |
 | 22 | mcdinner-mate | jk*****ii | 55 |
 | 22 | McOptima | YO**XX | 55 |
-| 24 | mcd-terminal | Zh*******mo | 48 |
-| 24 | mcpet | so*******************gn | 48 |
-| 26 | mcd-omni-assistant | Le*******77 | 45 |
-| 26 | mcd-receipt-persona | Ed******0Z | 45 |
+| 24 | mcd-terminal | Zh*******mo | 49 |
+| 24 | mcpet | so*******************gn | 49 |
+| 26 | mcd-receipt-persona | Ed******0Z | 47 |
+| 27 | mcd-omni-assistant | Le*******77 | 45 |
+| 28 | mcd-buddy | ja************er | 44 |
 | 28 | mcd-chill | yh**zl | 44 |
-| 29 | mcd-buddy | ja************er | 43 |
 | 30 | mcd-auto-coupon | od****24 | 42 |
 | 30 | mcd-cn-assistant | ju************er | 42 |
 | 32 | mcd-china-map | Ja*****CN | 39 |
@@ -51,15 +51,15 @@
 | 45 | mcd-fries-architect | yu*********ng | 27 |
 | 46 | mcd-smartpick | PL**08 | 26 |
 | 46 | mcd-macro-strategist | ji******ue | 26 |
-| 48 | mcd-persona-card | Yo****25 | 23 |
-| 48 | mcd-solver | ft***wf | 23 |
-| 48 | buy-me-a-big-mac | Ka*****iu | 23 |
-| 48 | mcd-chooser | Yo*****dx | 23 |
-| 48 | mcd-fit-planner | to***in | 23 |
+| 48 | buy-me-a-big-mac | Ka*****iu | 24 |
+| 49 | mcd-persona-card | Yo****25 | 23 |
+| 49 | mcd-solver | ft***wf | 23 |
+| 49 | mcd-chooser | Yo*****dx | 23 |
+| 49 | mcd-fit-planner | to***in | 23 |
+| 53 | mcd-compass | ma********28 | 22 |
 | 53 | mcd-calorie-budget-skill | cy******us | 22 |
-| 54 | mcd-life-report | 麦* | 21 |
-| 54 | mcd-compass | ma********28 | 21 |
-| 54 | mcd-dex | de*****mo | 21 |
+| 55 | mcd-life-report | 麦* | 21 |
+| 55 | mcd-dex | de*****mo | 21 |
 | 57 | McWander | Si*****o0 | 20 |
 | 57 | mcd-meal-butler | cw****26 | 20 |
 | 57 | mc-points-steward | yu****ai | 20 |
@@ -88,6 +88,7 @@
 | 80 | mcd-budget-skill | Li****nx | 15 |
 | 80 | mcd-hackthon | Pl***uo | 15 |
 | 80 | mcd-voice-order-assistant | 麦* | 15 |
+| 85 | ship-a-big-mac | Dd*********ng | 14 |
 | 85 | mcdetective | St***********ea | 14 |
 | 85 | mcd-tablemate | yo********xi | 14 |
 | 85 | mcd-meal-brain | 麦* | 14 |
@@ -95,12 +96,12 @@
 | 85 | mcd-mcvoice | Ca*****-Y | 14 |
 | 85 | mcd-butler | li**re | 14 |
 | 85 | mcd-craving-coach | ke******su | 14 |
-| 92 | maimai-restaurant-huiyan | No********ss | 13 |
-| 92 | mcd-organizer-hub | Th*********96 | 13 |
-| 92 | maimen-calendar | Wh****53 | 13 |
-| 92 | mcd-easy-order | wa******i2 | 13 |
-| 92 | mcfit-agent | 22******09 | 13 |
-| 92 | mcd-receipt-studio | le****-c | 13 |
-| 92 | mcd-social-to-meal | je**************vg | 13 |
-| 92 | mcd-skill | Mi********53 | 13 |
-| 92 | mcd-group-order | zx****ne | 13 |
+| 93 | maimai-restaurant-huiyan | No********ss | 13 |
+| 93 | mcd-organizer-hub | Th*********96 | 13 |
+| 93 | maimen-calendar | Wh****53 | 13 |
+| 93 | mcd-easy-order | wa******i2 | 13 |
+| 93 | mcfit-agent | 22******09 | 13 |
+| 93 | mcd-receipt-studio | le****-c | 13 |
+| 93 | mcd-social-to-meal | je**************vg | 13 |
+| 93 | mcd-skill | Mi********53 | 13 |
+| 93 | mcd-group-order | zx****ne | 13 |
