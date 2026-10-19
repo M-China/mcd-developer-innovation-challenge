@@ -1,23 +1,23 @@
 # 麦当劳程序员创意开发大赛排行榜
 
-更新时间：2026-10-20 03:00:56
+更新时间：2026-10-20 04:00:55
 
 | 名次 | 项目名称 | Owner 昵称 | Star 数 |
 |---:|---|---|---:|
-| 1 | mcd-saver-strategist | hu**un | 683 |
-| 2 | mcd-budget-meal | Sa*******ot | 601 |
+| 1 | mcd-saver-strategist | hu**un | 689 |
+| 2 | mcd-budget-meal | Sa*******ot | 606 |
 | 3 | mcd-coupon-strategist | Ay****23 | 555 |
-| 4 | maimen-certification | ch*****ao | 508 |
-| 5 | mccarbon | 麦* | 489 |
-| 6 | mcd-party-planner | zc***xc | 456 |
-| 7 | McOracle | sp*******on | 358 |
-| 7 | mcd-wrapped | lv*****ng | 358 |
-| 9 | McLife-Desk | Ni***-w | 347 |
+| 4 | maimen-certification | ch*****ao | 524 |
+| 5 | mccarbon | 麦* | 495 |
+| 6 | mcd-party-planner | zc***xc | 459 |
+| 7 | mcd-wrapped | lv*****ng | 361 |
+| 8 | McOracle | sp*******on | 360 |
+| 9 | McLife-Desk | Ni***-w | 356 |
 | 10 | mcpet | so*******************gn | 268 |
 | 11 | mcd-party-officer | yz***26 | 244 |
-| 12 | mcd-budget-planner | AA**EE | 171 |
+| 12 | mcd-budget-planner | AA**EE | 172 |
 | 13 | mcd-calorie-butler | Wi*********ck | 149 |
-| 14 | mcd-1024-skill | 麦* | 145 |
+| 14 | mcd-1024-skill | 麦* | 148 |
 | 15 | meal-puzzle | ju*****un | 115 |
 | 16 | mcd-hui-life | cc************tm | 112 |
 | 17 | mcd-optimizer | li***********68 | 111 |
@@ -26,17 +26,17 @@
 | 20 | mcparallel | qq******tu | 108 |
 | 21 | mcd-saver-planner | ch****VQ | 105 |
 | 22 | mcd-strategist | ze**xz | 104 |
+| 22 | walk-kcal | ad**bn | 104 |
 | 22 | maimai-fun-orderer | Fu****ng | 104 |
-| 24 | walk-kcal | ad**bn | 103 |
 | 25 | mcd-party-scout | fa********02 | 102 |
 | 26 | MM-helper | si*************ep | 101 |
-| 27 | mcd-buddy | ja************er | 88 |
-| 28 | mcd-expiry-butler | ba******71 | 85 |
-| 29 | mcd-git | zh******me | 83 |
-| 29 | maimen-butler | 07*iu | 83 |
-| 29 | git-to-big-mac-hedger | yu******21 | 83 |
-| 32 | mai-shen-zai-ci | ti****gc | 78 |
-| 32 | mcd-receipt-persona | Ed******0Z | 78 |
+| 27 | maimen-butler | 07*iu | 89 |
+| 28 | mcd-buddy | ja************er | 88 |
+| 29 | mai-shen-zai-ci | ti****gc | 87 |
+| 30 | mcd-expiry-butler | ba******71 | 85 |
+| 31 | git-to-big-mac-hedger | yu******21 | 84 |
+| 32 | mcd-git | zh******me | 83 |
+| 33 | mcd-receipt-persona | Ed******0Z | 78 |
 | 34 | mcscene | qi************en | 76 |
 | 35 | mcd-terminal | Zh*******mo | 75 |
 | 35 | mcd-deal-detective | mc********ng | 75 |
@@ -49,7 +49,7 @@
 | 43 | mcd-cn-assistant | ju************er | 53 |
 | 44 | mcd-omni-assistant | Le*******77 | 50 |
 | 45 | mcd-compass | ma********28 | 49 |
-| 46 | mcd-chooser | Yo*****dx | 48 |
+| 45 | mcd-chooser | Yo*****dx | 49 |
 | 47 | mcd-chill | yh**zl | 47 |
 | 48 | maidada | li**************do | 43 |
 | 49 | mcd-auto-coupon | od****24 | 42 |
@@ -86,9 +86,9 @@
 | 80 | mcd-persona-card | Yo****25 | 23 |
 | 80 | mcd-solver | ft***wf | 23 |
 | 80 | maimen-gym | li*********03 | 23 |
-| 83 | mcd-calorie-budget-skill | cy******us | 22 |
-| 83 | mcd-what-to-eat | yf**********er | 22 |
-| 83 | mcd-hackthon | Pl***uo | 22 |
+| 80 | mcd-hackthon | Pl***uo | 23 |
+| 84 | mcd-calorie-budget-skill | cy******us | 22 |
+| 84 | mcd-what-to-eat | yf**********er | 22 |
 | 86 | mcd-commit-fuel | by**nx | 21 |
 | 86 | mcd-life-report | 麦* | 21 |
 | 88 | McWander | Si*****o0 | 20 |
@@ -105,5 +105,6 @@
 | 99 | super-mcd-benefits-radar | co**n9 | 17 |
 | 99 | mcd-points-actuary | ak**in | 17 |
 | 99 | maimai-calendar | wa**************te | 17 |
+| 99 | mcd-daily-saver | Ce****-N | 17 |
 | 99 | Mgo | Ma*******ly | 17 |
 | 99 | mcd-skill | Mi********53 | 17 |
