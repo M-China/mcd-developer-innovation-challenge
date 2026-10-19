@@ -1,19 +1,19 @@
 # 麦当劳程序员创意开发大赛排行榜
 
-更新时间：2026-10-20 01:00:55
+更新时间：2026-10-20 02:00:55
 
 | 名次 | 项目名称 | Owner 昵称 | Star 数 |
 |---:|---|---|---:|
-| 1 | mcd-saver-strategist | hu**un | 677 |
-| 2 | mcd-budget-meal | Sa*******ot | 589 |
+| 1 | mcd-saver-strategist | hu**un | 681 |
+| 2 | mcd-budget-meal | Sa*******ot | 591 |
 | 3 | mcd-coupon-strategist | Ay****23 | 555 |
-| 4 | maimen-certification | ch*****ao | 495 |
-| 5 | mccarbon | 麦* | 469 |
-| 6 | mcd-party-planner | zc***xc | 448 |
-| 7 | mcd-wrapped | lv*****ng | 353 |
-| 8 | McOracle | sp*******on | 348 |
+| 4 | maimen-certification | ch*****ao | 500 |
+| 5 | mccarbon | 麦* | 475 |
+| 6 | mcd-party-planner | zc***xc | 452 |
+| 7 | mcd-wrapped | lv*****ng | 357 |
+| 8 | McOracle | sp*******on | 354 |
 | 9 | McLife-Desk | Ni***-w | 342 |
-| 10 | mcpet | so*******************gn | 265 |
+| 10 | mcpet | so*******************gn | 266 |
 | 11 | mcd-party-officer | yz***26 | 244 |
 | 12 | mcd-budget-planner | AA**EE | 169 |
 | 13 | mcd-calorie-butler | Wi*********ck | 149 |
@@ -34,23 +34,23 @@
 | 28 | mcd-buddy | ja************er | 88 |
 | 29 | mcd-git | zh******me | 83 |
 | 30 | git-to-big-mac-hedger | yu******21 | 81 |
+| 31 | maimen-butler | 07*iu | 78 |
 | 31 | mcd-receipt-persona | Ed******0Z | 78 |
-| 32 | mcscene | qi************en | 76 |
-| 33 | mcd-terminal | Zh*******mo | 75 |
-| 33 | mcd-deal-detective | mc********ng | 75 |
-| 35 | maimen-butler | 07*iu | 74 |
+| 33 | mcscene | qi************en | 76 |
+| 34 | mcd-terminal | Zh*******mo | 75 |
+| 34 | mcd-deal-detective | mc********ng | 75 |
 | 36 | mcd-event-radar | Za*****iu | 72 |
-| 37 | maimai-xianpin | lu*****ne | 64 |
-| 38 | mai-suanpan | W3******91 | 60 |
-| 38 | mcdinner-mate | jk*****ii | 60 |
-| 40 | mai-shen-zai-ci | ti****gc | 59 |
+| 37 | mai-shen-zai-ci | ti****gc | 65 |
+| 38 | maimai-xianpin | lu*****ne | 64 |
+| 39 | mai-suanpan | W3******91 | 60 |
+| 39 | mcdinner-mate | jk*****ii | 60 |
 | 41 | mcd-cn-assistant | ju************er | 58 |
-| 42 | buy-me-a-big-mac | Ka*****iu | 55 |
-| 42 | McOptima | YO**XX | 55 |
+| 41 | buy-me-a-big-mac | Ka*****iu | 58 |
+| 43 | McOptima | YO**XX | 55 |
 | 44 | mcd-omni-assistant | Le*******77 | 50 |
 | 45 | mcd-compass | ma********28 | 49 |
-| 46 | mcd-chill | yh**zl | 47 |
-| 46 | mcd-chooser | Yo*****dx | 47 |
+| 46 | mcd-chooser | Yo*****dx | 48 |
+| 47 | mcd-chill | yh**zl | 47 |
 | 48 | maidada | li**************do | 43 |
 | 49 | mcd-auto-coupon | od****24 | 42 |
 | 50 | mcperks-planner | qi******62 | 41 |
@@ -91,10 +91,10 @@
 | 85 | mcd-commit-fuel | by**nx | 21 |
 | 85 | mcd-life-report | 麦* | 21 |
 | 85 | mcd-full-scenario-decision-officer | da***********yk | 21 |
-| 88 | McWander | Si*****o0 | 20 |
-| 88 | mc-points-steward | yu****ai | 20 |
-| 88 | mcd-receipt-studio | le****-c | 20 |
-| 88 | mcd-hackthon | Pl***uo | 20 |
+| 85 | mcd-hackthon | Pl***uo | 21 |
+| 89 | McWander | Si*****o0 | 20 |
+| 89 | mc-points-steward | yu****ai | 20 |
+| 89 | mcd-receipt-studio | le****-c | 20 |
 | 92 | maimen-calendar | Wh****53 | 19 |
 | 92 | mcd-cart-optimizer | du******32 | 19 |
 | 94 | mcd-grail-radar | mu**oc | 18 |
