@@ -1,6 +1,6 @@
 # 麦当劳程序员创意开发大赛排行榜
 
-更新时间：2026-10-21 06:00:53
+更新时间：2026-10-21 07:00:54
 
 | 名次 | 项目名称 | Owner 昵称 | Star 数 |
 |---:|---|---|---:|
@@ -10,7 +10,7 @@
 | 4 | mcd-party-planner | zc***xc | 628 |
 | 5 | maimen-certification | ch*****ao | 615 |
 | 6 | mccarbon | 麦* | 582 |
-| 7 | McLife-Desk | Ni***-w | 511 |
+| 7 | McLife-Desk | Ni***-w | 513 |
 | 8 | mcd-wrapped | lv*****ng | 440 |
 | 9 | McOracle | sp*******on | 438 |
 | 10 | mai-shen-zai-ci | ti****gc | 282 |
@@ -30,8 +30,8 @@
 | 24 | mcd-deal-detective | mc********ng | 108 |
 | 24 | mcparallel | qq******tu | 108 |
 | 26 | mcd-saver-planner | ch****VQ | 105 |
-| 27 | mcd-strategist | ze**xz | 104 |
-| 28 | git-to-big-mac-hedger | yu******21 | 103 |
+| 26 | git-to-big-mac-hedger | yu******21 | 105 |
+| 28 | mcd-strategist | ze**xz | 104 |
 | 29 | mcd-party-scout | fa********02 | 102 |
 | 30 | mcd-expiry-butler | ba******71 | 101 |
 | 31 | MM-helper | si*************ep | 99 |
@@ -54,14 +54,14 @@
 | 48 | mcd-compass | ma********28 | 53 |
 | 48 | mcd-cn-assistant | ju************er | 53 |
 | 50 | mcd-omni-assistant | Le*******77 | 52 |
+| 51 | mcd-dex | de*****mo | 47 |
 | 51 | mcd-chill | yh**zl | 47 |
-| 52 | mcd-dex | de*****mo | 46 |
 | 53 | maimai-restaurant-huiyan | No********ss | 45 |
 | 54 | maidada | li**************do | 44 |
 | 55 | mcd-chinese-class | mi*****at | 43 |
 | 56 | mcd-auto-coupon | od****24 | 42 |
+| 56 | mcctl | hu*********27 | 42 |
 | 56 | mcperks-planner | qi******62 | 42 |
-| 58 | mcctl | hu*********27 | 41 |
 | 59 | mcd-mbti | xi********en | 38 |
 | 59 | mai-you-pu | su****00 | 38 |
 | 59 | mcd-order-calories | Br****id | 38 |
@@ -76,9 +76,9 @@
 | 69 | mc-use-it-or-lose-it | lu****un | 35 |
 | 71 | ship-a-big-mac | Dd*********ng | 34 |
 | 71 | MCD-happy-meal | pa***85 | 34 |
+| 71 | maimen-calendar | Wh****53 | 34 |
 | 71 | MealScript- | ko******77 | 34 |
 | 71 | mcd-mood-palette | Le**********IR | 34 |
-| 75 | maimen-calendar | Wh****53 | 33 |
 | 76 | mcgacha | we*****90 | 32 |
 | 76 | mcd-fortune | zm************ud | 32 |
 | 76 | mcd-party-quorum | Pa****ap | 32 |
@@ -88,19 +88,19 @@
 | 81 | mcd-save-master | ya***oo | 30 |
 | 81 | mcd-menu-stage | dd*****ld | 30 |
 | 81 | mcd-mcdrive-mate | yi********ng | 30 |
-| 85 | mcd-full-scenario-decision-officer | da***********yk | 28 |
-| 85 | McArena | Do*****hn | 28 |
-| 85 | mcd-best-deal | lz********wq | 28 |
-| 85 | mcd-fit-coach | di******ng | 28 |
+| 85 | McArena | Do*****hn | 29 |
+| 86 | mcd-full-scenario-decision-officer | da***********yk | 28 |
+| 86 | mcd-best-deal | lz********wq | 28 |
+| 86 | mcd-fit-coach | di******ng | 28 |
 | 89 | mcd-fries-architect | yu*********ng | 27 |
 | 89 | mcd-desktop-pet | kv***iu | 27 |
 | 91 | mcd-mcvoice | Ca*****-Y | 26 |
-| 91 | maimen-gym | li*********03 | 26 |
-| 93 | mcd-solver | ft***wf | 25 |
-| 93 | mcd-what-to-eat | yf**********er | 25 |
+| 92 | mcd-solver | ft***wf | 25 |
+| 92 | mcd-what-to-eat | yf**********er | 25 |
+| 92 | maimen-gym | li*********03 | 25 |
 | 95 | mcd-daily-saver | Ce****-N | 24 |
 | 95 | mcd-skill | Mi********53 | 24 |
 | 95 | mcd-order-butler | ta**id | 24 |
 | 98 | mcd-receipt-studio | le****-c | 23 |
-| 98 | mcd-butler | li**re | 23 |
-| 100 | mcd-calorie-budget-skill | cy******us | 22 |
+| 99 | mcd-calorie-budget-skill | cy******us | 22 |
+| 99 | mcd-butler | li**re | 22 |
