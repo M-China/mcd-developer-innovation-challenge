@@ -1,23 +1,23 @@
 # 麦当劳程序员创意开发大赛排行榜
 
-更新时间：2026-10-21 03:00:55
+更新时间：2026-10-21 04:00:55
 
 | 名次 | 项目名称 | Owner 昵称 | Star 数 |
 |---:|---|---|---:|
 | 1 | mcd-saver-strategist | hu**un | 804 |
-| 2 | mcd-budget-meal | Sa*******ot | 719 |
-| 3 | mcd-coupon-strategist | Ay****23 | 661 |
-| 4 | mcd-party-planner | zc***xc | 620 |
-| 5 | maimen-certification | ch*****ao | 610 |
-| 6 | mccarbon | 麦* | 579 |
-| 7 | McLife-Desk | Ni***-w | 502 |
-| 8 | mcd-wrapped | lv*****ng | 438 |
-| 9 | McOracle | sp*******on | 437 |
-| 10 | mcpet | so*******************gn | 280 |
-| 11 | mai-shen-zai-ci | ti****gc | 272 |
-| 12 | mcd-budget-planner | AA**EE | 262 |
+| 2 | mcd-budget-meal | Sa*******ot | 721 |
+| 3 | mcd-coupon-strategist | Ay****23 | 664 |
+| 4 | mcd-party-planner | zc***xc | 628 |
+| 5 | maimen-certification | ch*****ao | 615 |
+| 6 | mccarbon | 麦* | 582 |
+| 7 | McLife-Desk | Ni***-w | 508 |
+| 8 | mcd-wrapped | lv*****ng | 440 |
+| 9 | McOracle | sp*******on | 438 |
+| 10 | mai-shen-zai-ci | ti****gc | 282 |
+| 11 | mcpet | so*******************gn | 280 |
+| 12 | mcd-budget-planner | AA**EE | 263 |
 | 13 | mcd-party-officer | yz***26 | 244 |
-| 14 | mcd-1024-skill | 麦* | 169 |
+| 14 | mcd-1024-skill | 麦* | 170 |
 | 15 | mcd-calorie-butler | Wi*********ck | 149 |
 | 16 | meal-puzzle | ju*****un | 115 |
 | 17 | walk-kcal | ad**bn | 114 |
@@ -33,10 +33,10 @@
 | 27 | mcd-strategist | ze**xz | 104 |
 | 28 | mcd-party-scout | fa********02 | 102 |
 | 28 | git-to-big-mac-hedger | yu******21 | 102 |
-| 30 | MM-helper | si*************ep | 101 |
 | 30 | mcd-expiry-butler | ba******71 | 101 |
-| 32 | mcd-buddy | ja************er | 97 |
-| 32 | maimai-saver | yu******le | 97 |
+| 31 | MM-helper | si*************ep | 99 |
+| 32 | maimai-saver | yu******le | 98 |
+| 33 | mcd-buddy | ja************er | 97 |
 | 34 | mcd-terminal | Zh*******mo | 88 |
 | 35 | mcd-receipt-persona | Ed******0Z | 84 |
 | 36 | mcd-git | zh******me | 83 |
@@ -56,17 +56,17 @@
 | 50 | mcd-omni-assistant | Le*******77 | 50 |
 | 51 | mcd-chill | yh**zl | 47 |
 | 52 | maimai-restaurant-huiyan | No********ss | 45 |
-| 53 | maidada | li**************do | 44 |
-| 53 | mcd-dex | de*****mo | 44 |
+| 52 | mcd-dex | de*****mo | 45 |
+| 54 | maidada | li**************do | 44 |
 | 55 | mcd-chinese-class | mi*****at | 43 |
 | 56 | mcd-auto-coupon | od****24 | 42 |
 | 56 | mcperks-planner | qi******62 | 42 |
-| 58 | mcctl | hu*********27 | 40 |
-| 59 | mcd-china-map | Ja*****CN | 39 |
-| 60 | mcd-mbti | xi********en | 38 |
-| 60 | mai-you-pu | su****00 | 38 |
-| 60 | mcd-order-calories | Br****id | 38 |
-| 60 | mcd-mate | ri***ly | 38 |
+| 58 | mcctl | hu*********27 | 41 |
+| 59 | mcd-mbti | xi********en | 38 |
+| 59 | mai-you-pu | su****00 | 38 |
+| 59 | mcd-order-calories | Br****id | 38 |
+| 59 | mcd-china-map | Ja*****CN | 38 |
+| 59 | mcd-mate | ri***ly | 38 |
 | 64 | mcd-timetravel-game | El****ai | 37 |
 | 64 | mcd-meal-butler | cw****26 | 37 |
 | 64 | mcd-agent-gourmet | po*********rt | 37 |
@@ -77,11 +77,11 @@
 | 71 | ship-a-big-mac | Dd*********ng | 34 |
 | 71 | MCD-happy-meal | pa***85 | 34 |
 | 71 | mcd-mood-palette | Le**********IR | 34 |
-| 74 | mcd-party-buddy | Ne***93 | 32 |
-| 74 | mcgacha | we*****90 | 32 |
-| 74 | MealScript- | ko******77 | 32 |
-| 74 | mcd-fortune | zm************ud | 32 |
-| 78 | maimen-calendar | Wh****53 | 31 |
+| 74 | MealScript- | ko******77 | 33 |
+| 75 | mcgacha | we*****90 | 32 |
+| 75 | maimen-calendar | Wh****53 | 32 |
+| 75 | mcd-fortune | zm************ud | 32 |
+| 78 | mcd-party-buddy | Ne***93 | 31 |
 | 78 | mcd-party-quorum | Pa****ap | 31 |
 | 78 | mcd-fit-planner | to***in | 31 |
 | 81 | mcd-breakfast-variety | To********ei | 30 |
@@ -97,10 +97,10 @@
 | 91 | mcd-mcvoice | Ca*****-Y | 26 |
 | 91 | maimen-gym | li*********03 | 26 |
 | 93 | mcd-what-to-eat | yf**********er | 25 |
+| 94 | mcd-solver | ft***wf | 24 |
 | 94 | mcd-daily-saver | Ce****-N | 24 |
 | 94 | mcd-skill | Mi********53 | 24 |
 | 94 | mcd-butler | li**re | 24 |
 | 94 | mcd-order-butler | ta**id | 24 |
-| 98 | mcd-solver | ft***wf | 23 |
-| 98 | mcd-receipt-studio | le****-c | 23 |
+| 99 | mcd-receipt-studio | le****-c | 23 |
 | 100 | mcd-calorie-budget-skill | cy******us | 22 |
