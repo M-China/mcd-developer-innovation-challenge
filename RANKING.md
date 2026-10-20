@@ -1,6 +1,6 @@
 # 麦当劳程序员创意开发大赛排行榜
 
-更新时间：2026-10-21 04:00:55
+更新时间：2026-10-21 05:00:55
 
 | 名次 | 项目名称 | Owner 昵称 | Star 数 |
 |---:|---|---|---:|
@@ -10,14 +10,14 @@
 | 4 | mcd-party-planner | zc***xc | 628 |
 | 5 | maimen-certification | ch*****ao | 615 |
 | 6 | mccarbon | 麦* | 582 |
-| 7 | McLife-Desk | Ni***-w | 508 |
+| 7 | McLife-Desk | Ni***-w | 510 |
 | 8 | mcd-wrapped | lv*****ng | 440 |
 | 9 | McOracle | sp*******on | 438 |
 | 10 | mai-shen-zai-ci | ti****gc | 282 |
 | 11 | mcpet | so*******************gn | 280 |
 | 12 | mcd-budget-planner | AA**EE | 263 |
 | 13 | mcd-party-officer | yz***26 | 244 |
-| 14 | mcd-1024-skill | 麦* | 170 |
+| 14 | mcd-1024-skill | 麦* | 171 |
 | 15 | mcd-calorie-butler | Wi*********ck | 149 |
 | 16 | meal-puzzle | ju*****un | 115 |
 | 17 | walk-kcal | ad**bn | 114 |
@@ -38,7 +38,7 @@
 | 32 | maimai-saver | yu******le | 98 |
 | 33 | mcd-buddy | ja************er | 97 |
 | 34 | mcd-terminal | Zh*******mo | 88 |
-| 35 | mcd-receipt-persona | Ed******0Z | 84 |
+| 35 | mcd-receipt-persona | Ed******0Z | 85 |
 | 36 | mcd-git | zh******me | 83 |
 | 37 | mcd-smartpick | PL**08 | 77 |
 | 38 | mcscene | qi************en | 76 |
@@ -53,10 +53,10 @@
 | 47 | McOptima | YO**XX | 55 |
 | 48 | mcd-compass | ma********28 | 53 |
 | 48 | mcd-cn-assistant | ju************er | 53 |
-| 50 | mcd-omni-assistant | Le*******77 | 50 |
+| 50 | mcd-omni-assistant | Le*******77 | 51 |
 | 51 | mcd-chill | yh**zl | 47 |
-| 52 | maimai-restaurant-huiyan | No********ss | 45 |
-| 52 | mcd-dex | de*****mo | 45 |
+| 52 | mcd-dex | de*****mo | 46 |
+| 53 | maimai-restaurant-huiyan | No********ss | 45 |
 | 54 | maidada | li**************do | 44 |
 | 55 | mcd-chinese-class | mi*****at | 43 |
 | 56 | mcd-auto-coupon | od****24 | 42 |
@@ -76,8 +76,8 @@
 | 69 | mc-use-it-or-lose-it | lu****un | 35 |
 | 71 | ship-a-big-mac | Dd*********ng | 34 |
 | 71 | MCD-happy-meal | pa***85 | 34 |
+| 71 | MealScript- | ko******77 | 34 |
 | 71 | mcd-mood-palette | Le**********IR | 34 |
-| 74 | MealScript- | ko******77 | 33 |
 | 75 | mcgacha | we*****90 | 32 |
 | 75 | maimen-calendar | Wh****53 | 32 |
 | 75 | mcd-fortune | zm************ud | 32 |
@@ -89,18 +89,18 @@
 | 81 | mcd-menu-stage | dd*****ld | 30 |
 | 81 | mcd-mcdrive-mate | yi********ng | 30 |
 | 85 | mcd-full-scenario-decision-officer | da***********yk | 28 |
+| 85 | McArena | Do*****hn | 28 |
 | 85 | mcd-best-deal | lz********wq | 28 |
 | 85 | mcd-fit-coach | di******ng | 28 |
-| 88 | McArena | Do*****hn | 27 |
-| 88 | mcd-fries-architect | yu*********ng | 27 |
-| 88 | mcd-desktop-pet | kv***iu | 27 |
+| 89 | mcd-fries-architect | yu*********ng | 27 |
+| 89 | mcd-desktop-pet | kv***iu | 27 |
 | 91 | mcd-mcvoice | Ca*****-Y | 26 |
 | 91 | maimen-gym | li*********03 | 26 |
 | 93 | mcd-what-to-eat | yf**********er | 25 |
 | 94 | mcd-solver | ft***wf | 24 |
 | 94 | mcd-daily-saver | Ce****-N | 24 |
 | 94 | mcd-skill | Mi********53 | 24 |
-| 94 | mcd-butler | li**re | 24 |
 | 94 | mcd-order-butler | ta**id | 24 |
-| 99 | mcd-receipt-studio | le****-c | 23 |
+| 98 | mcd-receipt-studio | le****-c | 23 |
+| 98 | mcd-butler | li**re | 23 |
 | 100 | mcd-calorie-budget-skill | cy******us | 22 |
