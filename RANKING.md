@@ -1,28 +1,28 @@
 # 麦当劳程序员创意开发大赛排行榜
 
-更新时间：2026-10-21 18:00:58
+更新时间：2026-10-21 19:00:56
 
 | 名次 | 项目名称 | Owner 昵称 | Star 数 |
 |---:|---|---|---:|
-| 1 | mcd-saver-strategist | hu**un | 826 |
-| 2 | mcd-budget-meal | Sa*******ot | 744 |
-| 3 | mcd-coupon-strategist | Ay****23 | 721 |
-| 4 | mcd-party-planner | zc***xc | 679 |
+| 1 | mcd-saver-strategist | hu**un | 833 |
+| 2 | mcd-budget-meal | Sa*******ot | 751 |
+| 3 | mcd-coupon-strategist | Ay****23 | 723 |
+| 4 | mcd-party-planner | zc***xc | 684 |
 | 5 | maimen-certification | ch*****ao | 645 |
-| 6 | mccarbon | 麦* | 613 |
-| 7 | McLife-Desk | Ni***-w | 576 |
+| 6 | mccarbon | 麦* | 627 |
+| 7 | McLife-Desk | Ni***-w | 581 |
 | 8 | mcd-wrapped | lv*****ng | 485 |
-| 9 | McOracle | sp*******on | 465 |
-| 10 | mai-shen-zai-ci | ti****gc | 357 |
-| 11 | mcd-budget-planner | AA**EE | 304 |
+| 9 | McOracle | sp*******on | 468 |
+| 10 | mai-shen-zai-ci | ti****gc | 364 |
+| 11 | mcd-budget-planner | AA**EE | 307 |
 | 12 | mcpet | so*******************gn | 286 |
 | 13 | mcd-party-officer | yz***26 | 244 |
 | 14 | mcd-1024-skill | 麦* | 177 |
-| 15 | mcd-calorie-butler | Wi*********ck | 149 |
-| 16 | mcd-deal-detective | mc********ng | 139 |
-| 17 | mcd-expiry-butler | ba******71 | 127 |
-| 18 | walk-kcal | ad**bn | 125 |
-| 19 | git-to-big-mac-hedger | yu******21 | 119 |
+| 15 | mcd-expiry-butler | ba******71 | 153 |
+| 16 | mcd-calorie-butler | Wi*********ck | 149 |
+| 17 | mcd-deal-detective | mc********ng | 139 |
+| 18 | walk-kcal | ad**bn | 127 |
+| 19 | git-to-big-mac-hedger | yu******21 | 121 |
 | 20 | maimen-butler | 07*iu | 117 |
 | 21 | meal-puzzle | ju*****un | 115 |
 | 21 | maimai-fun-orderer | Fu****ng | 115 |
@@ -39,28 +39,28 @@
 | 33 | MM-helper | si*************ep | 99 |
 | 34 | mcd-buddy | ja************er | 97 |
 | 35 | mcd-terminal | Zh*******mo | 93 |
-| 36 | mcd-receipt-persona | Ed******0Z | 90 |
+| 36 | mcd-receipt-persona | Ed******0Z | 91 |
 | 37 | mcd-git | zh******me | 83 |
 | 38 | mcd-smartpick | PL**08 | 78 |
 | 39 | mcscene | qi************en | 76 |
-| 40 | mcd-event-radar | Za*****iu | 72 |
-| 41 | buy-me-a-big-mac | Ka*****iu | 71 |
+| 40 | buy-me-a-big-mac | Ka*****iu | 73 |
+| 41 | mcd-event-radar | Za*****iu | 72 |
 | 42 | mai-suanpan | W3******91 | 69 |
 | 43 | mcd-hackthon | Pl***uo | 65 |
 | 44 | mcd-chooser | Yo*****dx | 64 |
 | 45 | maimai-xianpin | lu*****ne | 63 |
 | 46 | mcd-tea-captain | ch********an | 60 |
 | 47 | mcdinner-mate | jk*****ii | 59 |
+| 48 | mcd-timetravel-game | El****ai | 58 |
 | 48 | mcd-compass | ma********28 | 58 |
 | 48 | mcd-omni-assistant | Le*******77 | 58 |
-| 50 | mcd-timetravel-game | El****ai | 56 |
-| 51 | McOptima | YO**XX | 55 |
-| 52 | mcd-tarot | li**********ng | 54 |
-| 53 | mcd-persona-card | Yo****25 | 49 |
-| 53 | mcd-dex | de*****mo | 49 |
-| 53 | mcd-chill | yh**zl | 49 |
+| 51 | mcd-persona-card | Yo****25 | 57 |
+| 52 | McOptima | YO**XX | 55 |
+| 53 | mcd-tarot | li**********ng | 54 |
+| 54 | mcd-dex | de*****mo | 49 |
+| 54 | mcd-chill | yh**zl | 49 |
+| 56 | mcctl | hu*********27 | 48 |
 | 56 | mcd-chinese-class | mi*****at | 48 |
-| 57 | mcctl | hu*********27 | 47 |
 | 58 | maimai-restaurant-huiyan | No********ss | 45 |
 | 59 | maidada | li**************do | 44 |
 | 59 | mai-you-pu | su****00 | 44 |
@@ -93,14 +93,14 @@
 | 82 | mcd-fit-planner | to***in | 32 |
 | 88 | mcd-party-buddy | Ne***93 | 31 |
 | 88 | mcd-experience-atlas | jo****37 | 31 |
-| 90 | mcdetective | St***********ea | 30 |
-| 90 | mcd-breakfast-variety | To********ei | 30 |
-| 90 | bianbian-maixiaoshu | jo********jo | 30 |
-| 90 | Mcdonalds-mbti | Tu****66 | 30 |
-| 90 | mcd-save-master | ya***oo | 30 |
-| 90 | mcd-order-butler | ta**id | 30 |
-| 90 | mcd-menu-stage | dd*****ld | 30 |
-| 90 | mcd-mcdrive-mate | yi********ng | 30 |
-| 98 | mcd-daily-saver | Ce****-N | 29 |
+| 88 | bianbian-maixiaoshu | jo********jo | 31 |
+| 88 | mcd-order-butler | ta**id | 31 |
+| 92 | mcdetective | St***********ea | 30 |
+| 92 | mcd-daily-saver | Ce****-N | 30 |
+| 92 | mcd-breakfast-variety | To********ei | 30 |
+| 92 | Mcdonalds-mbti | Tu****66 | 30 |
+| 92 | mcd-save-master | ya***oo | 30 |
+| 92 | mcd-menu-stage | dd*****ld | 30 |
+| 92 | mcd-mcdrive-mate | yi********ng | 30 |
 | 99 | mcd-full-scenario-decision-officer | da***********yk | 28 |
 | 99 | mcd-best-deal | lz********wq | 28 |
