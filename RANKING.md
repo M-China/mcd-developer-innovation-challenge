@@ -1,11 +1,11 @@
 # 麦当劳程序员创意开发大赛排行榜
 
-更新时间：2026-10-23 10:00:48
+更新时间：2026-10-23 11:00:51
 
 | 名次 | 项目名称 | Owner 昵称 | Star 数 |
 |---:|---|---|---:|
 | 1 | mcd-saver-strategist | hu**un | 992 |
-| 2 | McLife-Desk | Ni***-w | 914 |
+| 2 | McLife-Desk | Ni***-w | 922 |
 | 3 | mcd-budget-meal | Sa*******ot | 908 |
 | 4 | maimen-certification | ch*****ao | 877 |
 | 5 | mcd-coupon-strategist | Ay****23 | 876 |
@@ -17,12 +17,12 @@
 | 11 | mcd-budget-planner | AA**EE | 464 |
 | 12 | mcpet | so*******************gn | 311 |
 | 13 | mcd-party-officer | yz***26 | 244 |
-| 14 | walk-kcal | ad**bn | 197 |
-| 15 | mcd-1024-skill | 麦* | 196 |
+| 14 | walk-kcal | ad**bn | 199 |
+| 15 | mcd-1024-skill | 麦* | 197 |
 | 16 | mcd-deal-detective | mc********ng | 165 |
 | 17 | mcd-calorie-butler | Wi*********ck | 149 |
 | 18 | git-to-big-mac-hedger | yu******21 | 137 |
-| 19 | McReadme-Card | co******ee | 124 |
+| 19 | McReadme-Card | co******ee | 125 |
 | 20 | maimai-fun-orderer | Fu****ng | 122 |
 | 21 | maimai-calendar | wa**************te | 121 |
 | 22 | maimen-butler | 07*iu | 119 |
@@ -48,42 +48,42 @@
 | 42 | mcd-chooser | Yo*****dx | 77 |
 | 43 | mcscene | qi************en | 76 |
 | 44 | mcd-timetravel-game | El****ai | 74 |
-| 45 | mai-suanpan | W3******91 | 73 |
-| 45 | mai-you-pu | su****00 | 73 |
+| 44 | mai-you-pu | su****00 | 74 |
+| 46 | mai-suanpan | W3******91 | 73 |
 | 47 | mcd-event-radar | Za*****iu | 72 |
 | 48 | mcd-hackthon | Pl***uo | 66 |
-| 49 | mcd-omni-assistant | Le*******77 | 64 |
-| 49 | mcd-chinese-class | mi*****at | 64 |
+| 49 | mcd-omni-assistant | Le*******77 | 65 |
+| 50 | mcd-chinese-class | mi*****at | 64 |
 | 51 | maimai-xianpin | lu*****ne | 63 |
 | 52 | mcd-compass | ma********28 | 62 |
-| 53 | mcctl | hu*********27 | 61 |
+| 52 | mcctl | hu*********27 | 62 |
 | 54 | mcd-tea-captain | ch********an | 60 |
 | 55 | mcgacha | we*****90 | 58 |
+| 56 | mcd-dex | de*****mo | 57 |
 | 56 | maimen-order-manager | BE*****06 | 57 |
-| 57 | mcd-dex | de*****mo | 56 |
-| 57 | maimen-xinshi | To*****23 | 56 |
-| 57 | MealScript- | ko******77 | 56 |
-| 57 | mcd-tarot | li**********ng | 56 |
+| 58 | maimen-xinshi | To*****23 | 56 |
+| 58 | MealScript- | ko******77 | 56 |
+| 58 | mcd-tarot | li**********ng | 56 |
 | 61 | McOptima | YO**XX | 55 |
 | 62 | mcdinner-mate | jk*****ii | 54 |
 | 62 | McCosmos | ay****AQ | 54 |
+| 64 | McLottery-Alchemist | Br********er | 53 |
 | 64 | mcd-save-master | ya***oo | 53 |
-| 65 | McLottery-Alchemist | Br********er | 52 |
 | 66 | mcd-party-quorum | Pa****ap | 50 |
+| 66 | mc-keeps | 17**og | 50 |
 | 66 | mcd-chill | yh**zl | 50 |
 | 66 | mcd-mate | ri***ly | 50 |
-| 69 | mc-keeps | 17**og | 49 |
 | 70 | mcd-budget-bite | Tt*Mc | 48 |
 | 70 | mc-points-steward | yu****ai | 48 |
-| 72 | mcd-solver | ft***wf | 45 |
-| 72 | mcmeal-compass | sm***********23 | 45 |
-| 72 | bianbian-maixiaoshu | jo********jo | 45 |
-| 75 | McWander | Si*****o0 | 44 |
-| 75 | maidada | li**************do | 44 |
-| 75 | mcd-daily-saver | Ce****-N | 44 |
-| 75 | mcperks-planner | qi******62 | 44 |
-| 75 | mcd-order-butler | ta**id | 44 |
-| 75 | mcd-mcdrive-mate | yi********ng | 44 |
+| 72 | bianbian-maixiaoshu | jo********jo | 46 |
+| 73 | mcd-solver | ft***wf | 45 |
+| 73 | mcmeal-compass | sm***********23 | 45 |
+| 73 | mcd-order-butler | ta**id | 45 |
+| 76 | McWander | Si*****o0 | 44 |
+| 76 | maidada | li**************do | 44 |
+| 76 | mcd-daily-saver | Ce****-N | 44 |
+| 76 | mcperks-planner | qi******62 | 44 |
+| 76 | mcd-mcdrive-mate | yi********ng | 44 |
 | 81 | mcd-meal-butler | cw****26 | 43 |
 | 81 | Mcdonalds-mbti | Tu****66 | 43 |
 | 81 | mcd-menu-stage | dd*****ld | 43 |
@@ -95,12 +95,12 @@
 | 84 | mcd-fit-coach | di******ng | 42 |
 | 90 | mcd-food-arena | Ro*******oy | 41 |
 | 91 | maimen-gym | li*********03 | 39 |
+| 92 | McShake | gu****li | 38 |
 | 92 | mcd-mbti | xi********en | 38 |
 | 92 | mcd-order-calories | Br****id | 38 |
-| 94 | McShake | gu****li | 37 |
-| 94 | mcd-agent-gourmet | po*********rt | 37 |
-| 94 | mcd-desktop-pet | kv***iu | 37 |
-| 94 | mcd-fit-planner | to***in | 37 |
-| 98 | ship-a-big-mac | Dd*********ng | 36 |
-| 98 | maimai-collab-gallery-web | sl*******ge | 36 |
-| 98 | maimen-calendar | Wh****53 | 36 |
+| 95 | ship-a-big-mac | Dd*********ng | 37 |
+| 95 | mcd-agent-gourmet | po*********rt | 37 |
+| 95 | mcd-desktop-pet | kv***iu | 37 |
+| 95 | mcd-fit-planner | to***in | 37 |
+| 99 | maimai-collab-gallery-web | sl*******ge | 36 |
+| 99 | maimen-calendar | Wh****53 | 36 |
