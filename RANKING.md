@@ -1,28 +1,28 @@
 # 麦当劳程序员创意开发大赛排行榜
 
-更新时间：2026-10-23 13:00:46
+更新时间：2026-10-23 14:00:48
 
 | 名次 | 项目名称 | Owner 昵称 | Star 数 |
 |---:|---|---|---:|
 | 1 | mcd-saver-strategist | hu**un | 997 |
-| 2 | McLife-Desk | Ni***-w | 934 |
+| 2 | McLife-Desk | Ni***-w | 938 |
 | 3 | mcd-budget-meal | Sa*******ot | 908 |
-| 4 | maimen-certification | ch*****ao | 877 |
+| 4 | maimen-certification | ch*****ao | 878 |
 | 5 | mcd-coupon-strategist | Ay****23 | 876 |
 | 6 | mcd-party-planner | zc***xc | 874 |
 | 7 | mccarbon | 麦* | 843 |
 | 8 | McOracle | sp*******on | 564 |
 | 9 | mcd-wrapped | lv*****ng | 516 |
-| 10 | mai-shen-zai-ci | ti****gc | 498 |
+| 10 | mai-shen-zai-ci | ti****gc | 499 |
 | 11 | mcd-budget-planner | AA**EE | 464 |
 | 12 | mcpet | so*******************gn | 311 |
 | 13 | mcd-party-officer | yz***26 | 244 |
-| 14 | walk-kcal | ad**bn | 203 |
+| 14 | walk-kcal | ad**bn | 208 |
 | 15 | mcd-1024-skill | 麦* | 197 |
 | 16 | mcd-deal-detective | mc********ng | 165 |
 | 17 | mcd-calorie-butler | Wi*********ck | 149 |
 | 18 | git-to-big-mac-hedger | yu******21 | 137 |
-| 19 | maimai-fun-orderer | Fu****ng | 130 |
+| 19 | maimai-fun-orderer | Fu****ng | 133 |
 | 20 | McReadme-Card | co******ee | 125 |
 | 21 | maimai-calendar | wa**************te | 121 |
 | 22 | maimen-butler | 07*iu | 119 |
@@ -40,26 +40,26 @@
 | 34 | mcd-terminal | Zh*******mo | 101 |
 | 34 | mcd-mood-palette | Le**********IR | 101 |
 | 36 | mcd-group-order | ga******27 | 99 |
-| 37 | mcd-receipt-persona | Ed******0Z | 96 |
+| 37 | mcd-receipt-persona | Ed******0Z | 97 |
 | 38 | mcd-persona-card | Yo****25 | 89 |
 | 39 | mcd-saver-checkup | 麦* | 87 |
 | 40 | mcd-git | zh******me | 84 |
 | 40 | buy-me-a-big-mac | Ka*****iu | 84 |
 | 42 | mcd-chooser | Yo*****dx | 82 |
 | 43 | mcscene | qi************en | 76 |
-| 44 | mcd-timetravel-game | El****ai | 74 |
-| 44 | mai-suanpan | W3******91 | 74 |
-| 44 | mai-you-pu | su****00 | 74 |
+| 44 | mai-you-pu | su****00 | 75 |
+| 45 | mcd-timetravel-game | El****ai | 74 |
+| 45 | mai-suanpan | W3******91 | 74 |
 | 47 | mcd-event-radar | Za*****iu | 72 |
-| 48 | mcd-omni-assistant | Le*******77 | 68 |
+| 48 | mcd-omni-assistant | Le*******77 | 69 |
 | 49 | mcd-hackthon | Pl***uo | 66 |
 | 50 | mcd-chinese-class | mi*****at | 64 |
 | 51 | mcctl | hu*********27 | 63 |
 | 51 | maimai-xianpin | lu*****ne | 63 |
 | 53 | mcd-compass | ma********28 | 62 |
 | 54 | mcd-tea-captain | ch********an | 60 |
-| 55 | mcgacha | we*****90 | 58 |
-| 55 | mcd-dex | de*****mo | 58 |
+| 54 | mcd-dex | de*****mo | 60 |
+| 56 | mcgacha | we*****90 | 58 |
 | 57 | maimen-order-manager | BE*****06 | 57 |
 | 58 | maimen-xinshi | To*****23 | 56 |
 | 58 | MealScript- | ko******77 | 56 |
@@ -75,13 +75,13 @@
 | 68 | mcd-mate | ri***ly | 50 |
 | 70 | mcd-budget-bite | Tt*Mc | 48 |
 | 70 | mc-points-steward | yu****ai | 48 |
-| 72 | mcd-solver | ft***wf | 46 |
-| 72 | mcd-daily-saver | Ce****-N | 46 |
-| 72 | mcmeal-compass | sm***********23 | 46 |
-| 72 | bianbian-maixiaoshu | jo********jo | 46 |
-| 72 | mcd-order-butler | ta**id | 46 |
-| 72 | mcd-mcdrive-mate | yi********ng | 46 |
-| 78 | mcperks-planner | qi******62 | 45 |
+| 72 | mcmeal-compass | sm***********23 | 47 |
+| 72 | mcd-order-butler | ta**id | 47 |
+| 74 | mcd-solver | ft***wf | 46 |
+| 74 | mcd-daily-saver | Ce****-N | 46 |
+| 74 | bianbian-maixiaoshu | jo********jo | 46 |
+| 74 | mcperks-planner | qi******62 | 46 |
+| 74 | mcd-mcdrive-mate | yi********ng | 46 |
 | 79 | McWander | Si*****o0 | 44 |
 | 79 | maidada | li**************do | 44 |
 | 81 | mcd-meal-butler | cw****26 | 43 |
@@ -94,9 +94,9 @@
 | 86 | mctaste-lab | Pl****66 | 42 |
 | 86 | mcd-fit-coach | di******ng | 42 |
 | 90 | mcd-food-arena | Ro*******oy | 41 |
-| 91 | ship-a-big-mac | Dd*********ng | 39 |
-| 91 | McShake | gu****li | 39 |
-| 91 | maimen-gym | li*********03 | 39 |
+| 91 | McShake | gu****li | 40 |
+| 92 | ship-a-big-mac | Dd*********ng | 39 |
+| 92 | maimen-gym | li*********03 | 39 |
 | 94 | mcd-fortune | zm************ud | 38 |
 | 94 | mcd-mbti | xi********en | 38 |
 | 94 | mcd-order-calories | Br****id | 38 |
