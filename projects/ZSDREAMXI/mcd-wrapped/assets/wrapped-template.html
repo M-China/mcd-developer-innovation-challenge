@@ -1,0 +1,158 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>麦当劳年度报告 {{YEAR}}</title>
+<!--
+  mcd-wrapped 报告模板 · 用法：
+  1. 替换所有 {{TOKENS}}
+  2. 行块用 <!-- ROW:xxx --> ... <!-- /ROW:xxx --> 标注，按数据复制或删除整块
+  3. 「站外账本」整段可选：无站外补录记录时删除该段，并把后续小节编号顺延
+  4. 年度账本四张卡为通用 token，按口径填写。推荐配置：
+     无站外记录 → 订单数 / 客单价(含0元单) / 0元单(数量+占比) / 最豪华一单
+     有站外记录 → 订单数 / 综合客单价 / 团购核销单(混合单写进副注) / 站外实付
+  5. 保持金色 #FFC72C + 红色 #DA291C 的麦当劳视觉基调，可增删段落
+-->
+<style>
+  :root{
+    --bg:#141414; --panel:#1e1c17; --panel-2:#272318;
+    --gold:#ffc72c; --red:#da291c; --ink:#fff7e6; --muted:#a89f8d;
+    --line:rgba(255,199,44,.16); --track:rgba(255,247,230,.08);
+  }
+  *{box-sizing:border-box}
+  html{-webkit-text-size-adjust:100%}
+  body{margin:0;background:var(--bg);color:var(--ink);
+    font-family:"Noto Sans SC","PingFang SC","Microsoft YaHei",system-ui,sans-serif}
+  .wrap{max-width:720px;margin:0 auto;padding:56px 22px 72px}
+  .kicker{letter-spacing:.38em;color:var(--gold);font-size:12px;font-weight:700;text-transform:uppercase}
+  h1{font-size:42px;line-height:1.15;margin:12px 0 8px;font-weight:800}
+  h1 .accent{color:var(--gold)}
+  .sub{color:var(--muted);margin:0 0 40px;font-size:14px}
+  h2{font-size:13px;letter-spacing:.3em;color:var(--muted);font-weight:700;
+    text-transform:uppercase;margin:56px 0 18px}
+  h2 b{color:var(--gold);margin-right:8px}
+  .hero-num{font-size:96px;font-weight:800;line-height:1;color:var(--gold);
+    font-variant-numeric:tabular-nums}
+  .hero-num small{font-size:32px;font-weight:700;margin-left:4px}
+  .hero-cap{color:var(--muted);margin-top:10px}
+  .grid{display:grid;grid-template-columns:repeat(4,1fr);gap:10px}
+  @media (max-width:560px){.grid{grid-template-columns:repeat(2,1fr)}}
+  .stat{background:var(--panel);border:1px solid var(--line);border-radius:18px;padding:18px 16px}
+  .stat .k{color:var(--muted);font-size:12px;letter-spacing:.08em}
+  .stat .v{font-size:26px;font-weight:800;margin-top:6px;font-variant-numeric:tabular-nums}
+  .stat .v em{font-style:normal;color:var(--red)}
+  .stat .d{color:var(--muted);font-size:12px;margin-top:4px}
+  .rows{display:flex;flex-direction:column;gap:12px}
+  .row .meta{display:flex;justify-content:space-between;align-items:baseline;margin-bottom:6px}
+  .row .name{font-weight:700;font-size:15px}
+  .row .name i{font-style:normal;color:var(--muted);font-weight:400;font-size:12px;margin-left:8px}
+  .row .qty{color:var(--gold);font-weight:800;font-variant-numeric:tabular-nums}
+  .bar{height:10px;border-radius:99px;background:var(--track);overflow:hidden}
+  .bar span{display:block;height:100%;border-radius:99px;
+    background:linear-gradient(90deg,var(--red),var(--gold))}
+  .panel{background:var(--panel);border:1px solid var(--line);border-radius:22px;padding:26px 24px}
+  .panel .t{color:var(--muted);font-size:12px;letter-spacing:.2em;text-transform:uppercase}
+  .panel .big{font-size:26px;font-weight:800;margin-top:8px;line-height:1.35}
+  .panel .big .accent{color:var(--gold)}
+  .panel .note{color:var(--muted);margin-top:10px;font-size:14px;line-height:1.7}
+  .facts{display:flex;flex-direction:column;gap:0;margin:0}
+  .fact{display:flex;justify-content:space-between;gap:16px;padding:14px 2px;border-bottom:1px solid var(--line)}
+  .fact:last-child{border-bottom:none}
+  .fact .k{color:var(--muted)}
+  .fact .v{font-weight:700;text-align:right}
+  .persona{background:linear-gradient(135deg,var(--panel-2),var(--panel));
+    border:1px solid var(--gold);border-radius:26px;padding:34px 28px;text-align:center}
+  .persona .badge{display:inline-block;background:var(--red);color:#fff;border-radius:99px;
+    padding:5px 16px;font-size:12px;font-weight:700;letter-spacing:.2em}
+  .persona .name{font-size:34px;font-weight:800;color:var(--gold);margin:16px 0 10px}
+  .persona .verdict{color:var(--ink);opacity:.85;font-size:15px;line-height:1.8}
+  .sug{display:flex;flex-direction:column;gap:10px}
+  .sug .item{display:flex;gap:12px;background:var(--panel);border:1px solid var(--line);
+    border-radius:16px;padding:16px 18px;font-size:14px;line-height:1.7}
+  .sug .n{flex:none;width:26px;height:26px;border-radius:50%;background:var(--gold);color:#141414;
+    font-weight:800;display:flex;align-items:center;justify-content:center;font-size:13px}
+  footer{margin-top:64px;color:var(--muted);font-size:12px;text-align:center;line-height:1.8}
+  .arc{color:var(--red);font-weight:800}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <!-- 封面 -->
+  <div class="kicker">McDonald's China × MCP</div>
+  <h1>{{YEAR}}<br>你的<span class="accent">麦门年报</span></h1>
+  <p class="sub">{{DATE_RANGE}} · 共 {{ORDER_COUNT}} 单 · 生成于 {{GENERATED_AT}}</p>
+
+  <!-- 核心数字 -->
+  <div class="hero-num">{{TOTAL_SPEND}}<small>元</small></div>
+  <div class="hero-cap">{{SPEND_CAP}}</div>
+
+  <h2><b>01</b>年度账本</h2>
+  <div class="grid">
+    <div class="stat"><div class="k">{{STAT1_K}}</div><div class="v">{{STAT1_V}}</div><div class="d">{{STAT1_D}}</div></div>
+    <div class="stat"><div class="k">{{STAT2_K}}</div><div class="v">{{STAT2_V}}</div><div class="d">{{STAT2_D}}</div></div>
+    <div class="stat"><div class="k">{{STAT3_K}}</div><div class="v">{{STAT3_V}}</div><div class="d">{{STAT3_D}}</div></div>
+    <div class="stat"><div class="k">{{STAT4_K}}</div><div class="v">{{STAT4_V}}</div><div class="d">{{STAT4_D}}</div></div>
+  </div>
+
+  <!-- 最常点 -->
+  <h2><b>02</b>最常点 TOP {{TOP_N}}</h2>
+  <div class="rows">
+    <!-- ROW:TOP_ITEM 以下行块按数据复制，width = 数量/最大数量*100% -->
+    <div class="row">
+      <div class="meta"><span class="name">{{ITEM_NAME}}<i>{{ITEM_NOTE}}</i></span><span class="qty">×{{ITEM_QTY}}</span></div>
+      <div class="bar"><span style="width:{{ITEM_PCT}}%"></span></div>
+    </div>
+    <!-- /ROW:TOP_ITEM -->
+  </div>
+
+  <!-- 站外账本（可选段：无补录记录时删除整段并顺延编号） -->
+  <h2><b>03</b>站外账本</h2>
+  <div class="panel">
+    <div class="t">券在站外买 · 餐在店里吃</div>
+    <div class="note">{{OFF_PLATFORM_NOTE}}</div>
+    <div class="facts" style="margin-top:14px">
+      <!-- ROW:OFF_PLATFORM 以下行块按补录记录复制 -->
+      <div class="fact"><span class="k">{{OFF_DATE}} · {{OFF_CHANNEL}}</span><span class="v">{{OFF_ITEMS}} · ¥{{OFF_AMOUNT}}</span></div>
+      <!-- /ROW:OFF_PLATFORM -->
+    </div>
+  </div>
+
+  <!-- 消费画像 -->
+  <h2><b>04</b>消费画像</h2>
+  <div class="panel">
+    <div class="t">招牌组合</div>
+    <div class="big"><span class="accent">{{SIGNATURE_NAME}}</span></div>
+    <div class="note">{{SIGNATURE_DETAIL}}</div>
+    <div class="facts" style="margin-top:18px">
+      <div class="fact"><span class="k">最爱门店</span><span class="v">{{FAVORITE_STORE}}</span></div>
+      <div class="fact"><span class="k">城市足迹</span><span class="v">{{CITY_LINE}}</span></div>
+      <div class="fact"><span class="k">时段分布</span><span class="v">{{TIME_LINE}}</span></div>
+      <div class="fact"><span class="k">消费方式</span><span class="v">{{CHANNEL_LINE}}</span></div>
+    </div>
+  </div>
+
+  <!-- 人格认证 -->
+  <h2><b>05</b>年度人格认证</h2>
+  <div class="persona">
+    <span class="badge">MCD WRAPPED 认证</span>
+    <div class="name">{{PERSONALITY}}</div>
+    <div class="verdict">{{PERSONALITY_VERDICT}}</div>
+  </div>
+
+  <!-- 建议 -->
+  <h2><b>06</b>明年这么吃</h2>
+  <div class="sug">
+    <!-- ROW:SUGGESTION 以下行块按数据复制（2-3 条） -->
+    <div class="item"><span class="n">1</span><span>{{SUGGESTION_TEXT}}</span></div>
+    <!-- /ROW:SUGGESTION -->
+  </div>
+
+  <footer>
+    数据来自麦当劳 MCP · order-list，仅含本人账号，未包含订单号等敏感信息<br>
+    生成于 ZCode <span class="arc">×</span> 麦当劳 MCP · mcd-wrapped
+  </footer>
+</div>
+</body>
+</html>
